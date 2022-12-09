@@ -29,3 +29,4 @@
 - [2021 - Fast outage analysis of large-scale production clouds with service correlation mining](https://ieeexplore.ieee.org/abstract/document/9402074/)
 - [2021 - Onion: Identifying Incident-Indicating Logs for Cloud Systems](https://dl.acm.org/doi/abs/10.1145/3468264.3473919)
 - [2020 - Towards intelligent incident management: why we need it and how we make it](https://dl.acm.org/doi/abs/10.1145/3368089.3417055)
+- [2017 - Mining causality of network events in log data](https://ieeexplore.ieee.org/abstract/document/8122062)

@@ -31,7 +31,7 @@
 - [Error logs produced by OpenStack.](https://figshare.com/articles/Failure_dataset/7732268/2)
 - [Computer failure data repository.](https://www.usenix.org/cfdr)
 - [A list of security log data.](http://www.secrepo.com)
-- [Apache log files.])https://www.sec.gov/dera/data/edgar-log-file-data-set.html)
+- [Apache log files.](https://www.sec.gov/dera/data/edgar-log-file-data-set.html)
 - [Toward generating a new intrusion detection dataset and intrusion traffic characterization.](https://www.researchgate.net/publication/322870768_Toward_Generating_a_New_Intrusion_Detection_Dataset_and_Intrusion_Traffic_Characterization)
 - [Train ticket: A benchmark microservice system.](https://github.com/FudanSELab/train-ticket/), [How to use](https://link.springer.com/chapter/10.1007/978-3-030-76352-7_17)
 

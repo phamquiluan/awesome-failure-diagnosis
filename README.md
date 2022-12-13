@@ -1,13 +1,12 @@
 # awesome-incident-management
 
 - [awesome-incident-management](#awesome-incident-management)
-  * [Industrial Source](#industrial-source)
-    + [Big tech cloud incident status](#big-tech-cloud-incident-status)
-    + [Public Github Resource](#public-github-resource)
+  * [Big tech cloud incident status](#big-tech-cloud-incident-status)
+  * [Public Github Resource](#public-github-resource)
+  * [Dataset](#dataset)
   * [Academic Paper](#academic-paper)
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
-
 
 
 ## Big tech cloud incident status

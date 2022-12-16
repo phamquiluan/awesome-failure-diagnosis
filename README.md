@@ -24,7 +24,6 @@
 - https://github.com/shaido987/alarm-rca
 - https://github.com/huawei-noah/trustworthyAI/tree/master/gcastle
 - https://github.com/NetManAIOps
-- https://github.com/NetManAIOps/DejaVu
 
 ## Dataset
 
@@ -37,7 +36,7 @@
 - [Train ticket: A benchmark microservice system.](https://github.com/FudanSELab/train-ticket/), [How to use](https://link.springer.com/chapter/10.1007/978-3-030-76352-7_17)
 
 ## Academic Paper
-- [2022 - Actionable and interpretable fault localization for recurring failures in online service systems](https://dl.acm.org/doi/abs/10.1145/3540250.3549092)
+- [2022 - Actionable and interpretable fault localization for recurring failures in online service systems.](https://dl.acm.org/doi/abs/10.1145/3540250.3549092) [[Code]](https://github.com/NetManAIOps/DejaVu)
 - [2022 - An Intelligent Framework for Timely, Accurate, and Comprehensive Cloud Incident Detection.](https://dl.acm.org/doi/abs/10.1145/3544497.3544499)
 - [2021 - Localization of Operational Faults in Cloud Applications by Mining Causal Dependencies in Logs Using Golden Signals.](https://link.springer.com/chapter/10.1007/978-3-030-76352-7_17)
 - [2021 - A survey on automated log analysis for reliability engineering.](https://dl.acm.org/doi/pdf/10.1145/3460345)

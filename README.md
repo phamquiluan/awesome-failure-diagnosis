@@ -4,6 +4,7 @@
   * [Big tech cloud incident status](#big-tech-cloud-incident-status)
   * [Public Github Resource](#public-github-resource)
   * [Dataset](#dataset)
+  * [Academic Conferences \& Journals](#academic-conferences-and-journals)
   * [Academic Paper](#academic-paper)
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
@@ -38,7 +39,7 @@
 - [Train ticket: A benchmark microservice system.](https://github.com/FudanSELab/train-ticket/), [How to use](https://link.springer.com/chapter/10.1007/978-3-030-76352-7_17)
 
 
-## Academic Conferences & Journals
+## Academic Conferences and Journals
 
 Rank checking: http://portal.core.edu.au/conf-ranks/
 - A* Conference : [ICSE](https://dblp.uni-trier.de/db/conf/icse/index) | [FSE](https://dblp.uni-trier.de/db/conf/sigsoft/index) | [ASE](https://dblp.org/db/conf/kbse/index.html)

@@ -20,6 +20,7 @@
 ## Public Github Resource
 - https://github.com/upgundecha/howtheysre
 - https://github.com/dastergon/awesome-sre
+- https://github.com/logpai/awesome-log-analysis
 - https://github.com/topics/incident-management
 - https://github.com/topics/incident-response
 - https://github.com/shaido987/alarm-rca
@@ -35,6 +36,14 @@
 - [Apache log files.](https://www.sec.gov/dera/data/edgar-log-file-data-set.html)
 - [Toward generating a new intrusion detection dataset and intrusion traffic characterization.](https://www.researchgate.net/publication/322870768_Toward_Generating_a_New_Intrusion_Detection_Dataset_and_Intrusion_Traffic_Characterization)
 - [Train ticket: A benchmark microservice system.](https://github.com/FudanSELab/train-ticket/), [How to use](https://link.springer.com/chapter/10.1007/978-3-030-76352-7_17)
+
+
+## Academic Conferences & Journals
+
+Rank checking: http://portal.core.edu.au/conf-ranks/
+- A* Conference : [ICSE](https://dblp.uni-trier.de/db/conf/icse/index) | [FSE](https://dblp.uni-trier.de/db/conf/sigsoft/index) | [ASE](https://dblp.org/db/conf/kbse/index.html)
+- Top Q1 Journal: [IEEE TSE](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=32)
+
 
 ## Academic Paper
 - [2022 - WOLFFI: A fault injection platform for learning AIOps models.](https://research.ibm.com/publications/wolffi-a-fault-injection-platform-for-learning-aiops-models)

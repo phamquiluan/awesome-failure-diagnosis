@@ -14,6 +14,7 @@
 - [Azure Cloud - https://status.azure.com/en-us/status/history](https://status.azure.com/en-us/status/history)
 - [IBM Cloud - https://cloud.ibm.com/status/incident-reports](https://cloud.ibm.com/status/incident-reports)
 - [Google Cloud - https://status.cloud.google.com/summary](https://status.cloud.google.com/summary)
+- [Google Cloud - https://www.google.com/appsstatus/dashboard/summary](https://www.google.com/appsstatus/dashboard/summary)
 - [AWS Cloud - https://aws.amazon.com/premiumsupport/technology/pes/](https://aws.amazon.com/premiumsupport/technology/pes/)
 
 ## Public Github Resource

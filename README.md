@@ -33,8 +33,9 @@
 - https://github.com/shaido987/alarm-rca
 - https://github.com/huawei-noah/trustworthyAI/tree/master/gcastle
 - https://github.com/NetManAIOps
-- https://github.com/phamquiluan/train-ticket (40+ microservices)
-- https://github.com/GoogleCloudPlatform/microservices-demo (10 microservices)
+- Train Ticket - https://github.com/phamquiluan/train-ticket (40+ microservices)
+- Online Boutique - https://github.com/GoogleCloudPlatform/microservices-demo (10 microservices)
+- Sock Shop - https://microservices-demo.github.io/
 
 ### Other
 - [Computer Security Incident Handling Guide](https://nvlpubs.nist.gov/nistpubs/specialpublications/nist.sp.800-61r2.pdf)

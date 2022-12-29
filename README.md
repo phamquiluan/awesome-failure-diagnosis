@@ -2,12 +2,16 @@
 
 - [awesome-incident-management](#awesome-incident-management)
   * [Big tech cloud incident status](#big-tech-cloud-incident-status)
-  * [Public Github Resource](#public-github-resource)
+  * [Public Resource](#public-resource)
+    + [Github](#github)
+    + [Other](#other)
   * [Dataset](#dataset)
-  * [Academic Conferences \& Journals](#academic-conferences-and-journals)
+  * [Academic Conferences and Journals](#academic-conferences-and-journals)
   * [Academic Paper](#academic-paper)
+  * [Academic Researcher](#academic-researcher)
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+
 
 
 ## Big tech cloud incident status
@@ -18,7 +22,9 @@
 - [Google Cloud - https://www.google.com/appsstatus/dashboard/summary](https://www.google.com/appsstatus/dashboard/summary)
 - [AWS Cloud - https://aws.amazon.com/premiumsupport/technology/pes/](https://aws.amazon.com/premiumsupport/technology/pes/)
 
-## Public Github Resource
+## Public Resource
+
+### Github 
 - https://github.com/upgundecha/howtheysre
 - https://github.com/dastergon/awesome-sre
 - https://github.com/logpai/awesome-log-analysis
@@ -29,6 +35,8 @@
 - https://github.com/NetManAIOps
 - https://github.com/phamquiluan/train-ticket
 
+### Other
+- [Computer Security Incident Handling Guide](https://nvlpubs.nist.gov/nistpubs/specialpublications/nist.sp.800-61r2.pdf)
 ## Dataset
 
 - https://github.com/logpai/loghub

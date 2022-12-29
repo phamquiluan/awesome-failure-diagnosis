@@ -62,3 +62,6 @@ Rank checking: http://portal.core.edu.au/conf-ranks/
 - [2019 - Tools and Benchmarks for Automated Log Parsing.](https://ieeexplore.ieee.org/abstract/document/8804456) [[Code]](https://github.com/logpai/logparser)
 - [2019 - Latent error prediction and fault localization for microservice applications by learning from system trace logs](http://dl.acm.org/citation.cfm?doid=3338906.3338961)
 - [2017 - Mining causality of network events in log data.](https://ieeexplore.ieee.org/abstract/document/8122062) [[Code]](https://github.com/cpflat/LogCausalAnalysis)
+
+## Academic Researcher
+- [Assoc Prof. Dan Pei - Tsinghua University](https://netman.aiops.org/~peidan/)

@@ -75,3 +75,5 @@ Rank checking: http://portal.core.edu.au/conf-ranks/
 
 ## Academic Researcher
 - [Assoc Prof. Dan Pei - Tsinghua University](https://netman.aiops.org/~peidan/)
+- [Dongmei Zhang](https://www.microsoft.com/en-us/research/people/dongmeiz/)
+- [Hongyu Zhang](https://sites.google.com/site/hongyujohn/)

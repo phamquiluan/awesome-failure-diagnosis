@@ -35,7 +35,7 @@
 - https://github.com/NetManAIOps
 - Train Ticket - https://github.com/phamquiluan/train-ticket (40+ microservices)
 - Online Boutique - https://github.com/GoogleCloudPlatform/microservices-demo (10 microservices) [1](https://dl.acm.org/doi/10.1145/3442381.3449905)
-- Sock Shop - https://microservices-demo.github.io/
+- Sock Shop - https://github.com/microservices-demo, https://microservices-demo.github.io/
 
 ### Other
 - [Computer Security Incident Handling Guide](https://nvlpubs.nist.gov/nistpubs/specialpublications/nist.sp.800-61r2.pdf)

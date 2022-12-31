@@ -33,6 +33,8 @@
 - https://github.com/shaido987/alarm-rca
 - https://github.com/huawei-noah/trustworthyAI/tree/master/gcastle
 - https://github.com/NetManAIOps
+- https://github.com/alibaba/clusterdata
+- https://github.com/Azure/AzurePublicDataset
 - Train Ticket - https://github.com/phamquiluan/train-ticket (40+ microservices)
 - Online Boutique - https://github.com/GoogleCloudPlatform/microservices-demo (10 microservices) [1](https://dl.acm.org/doi/10.1145/3442381.3449905)
 - Sock Shop - https://github.com/microservices-demo, https://microservices-demo.github.io/

@@ -83,6 +83,7 @@ Rank checking: http://portal.core.edu.au/conf-ranks/
 - [2017 - Mining causality of network events in log data.](https://ieeexplore.ieee.org/abstract/document/8122062) [[Code]](https://github.com/cpflat/LogCausalAnalysis)
 
 ## Academic Researcher
+- [Assoc Prof. Hongyu Zhang - Newcastle University](https://sites.google.com/site/hongyujohn/)
 - [Assoc Prof. Dan Pei - Tsinghua University](https://netman.aiops.org/~peidan/)
 - [Dr. Dongmei Zhang - Microsoft Asia Research](https://www.microsoft.com/en-us/research/people/dongmeiz/)
-- [Assoc Prof. Hongyu Zhang - Newcastle University](https://sites.google.com/site/hongyujohn/)
+- [Qingwei Lin - Microsoft Research Asia](https://www.microsoft.com/en-us/research/people/qlin/publications/)

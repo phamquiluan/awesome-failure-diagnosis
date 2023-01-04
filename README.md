@@ -1,18 +1,19 @@
 # awesome-incident-management
 
 - [awesome-incident-management](#awesome-incident-management)
+- [Public Resource](#public-resource)
   * [Big tech cloud incident status](#big-tech-cloud-incident-status)
-  * [Public Resource](#public-resource)
-    + [Github](#github)
-    + [Other](#other)
+  * [Github](#github)
+  * [Other](#other)
   * [Dataset](#dataset)
-  * [Academic Conferences and Journals](#academic-conferences-and-journals)
-  * [Academic Paper](#academic-paper)
-  * [Academic Researcher](#academic-researcher)
+- [Academic Conferences and Journals](#academic-conferences-and-journals)
+- [Academic Paper](#academic-paper)
+- [Academic Researcher](#academic-researcher)
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
 
+# Public Resource
 
 ## Big tech cloud incident status
 
@@ -22,9 +23,8 @@
 - [Google Cloud - https://www.google.com/appsstatus/dashboard/summary](https://www.google.com/appsstatus/dashboard/summary)
 - [AWS Cloud - https://aws.amazon.com/premiumsupport/technology/pes/](https://aws.amazon.com/premiumsupport/technology/pes/)
 
-## Public Resource
 
-### Github 
+## Github 
 - https://github.com/upgundecha/howtheysre
 - https://github.com/dastergon/awesome-sre
 - https://github.com/logpai/awesome-log-analysis
@@ -41,8 +41,9 @@
 - Online Boutique - https://github.com/GoogleCloudPlatform/microservices-demo (10 microservices) [1](https://dl.acm.org/doi/10.1145/3442381.3449905)
 - Sock Shop - https://github.com/microservices-demo, https://microservices-demo.github.io/
 
-### Other
+## Other
 - [Computer Security Incident Handling Guide](https://nvlpubs.nist.gov/nistpubs/specialpublications/nist.sp.800-61r2.pdf)
+
 ## Dataset
 
 - https://github.com/logpai/loghub
@@ -54,7 +55,7 @@
 - [Train ticket: A benchmark microservice system.](https://github.com/FudanSELab/train-ticket/), [How to use](https://link.springer.com/chapter/10.1007/978-3-030-76352-7_17)
 
 
-## Academic Conferences and Journals
+# Academic Conferences and Journals
 
 Rank checking: http://portal.core.edu.au/conf-ranks/
 - A* Ranked Conference: [ICSE](https://dblp.uni-trier.de/db/conf/icse/index) | [FSE](https://dblp.uni-trier.de/db/conf/sigsoft/index) | [ASE](https://dblp.org/db/conf/kbse/index.html)
@@ -62,7 +63,7 @@ Rank checking: http://portal.core.edu.au/conf-ranks/
 - Top Q1 Journal: [IEEE TSE](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=32)
 
 
-## Academic Paper
+# Academic Paper
 - [2022 - Going through the Life Cycle of Faults in Clouds: Guidelines on Fault Handling](https://ieeexplore.ieee.org/document/9978764/) [[Code, Data]](https://github.com/IntelligentDDS/Post-mortems-Analysis)
 - [2022 - A Survey on Deep Learning for Software Engineering](https://dl.acm.org/doi/abs/10.1145/3505243)
 - [2022 - Diagnosing Root Causes of Intermittent Slow Queries in Cloud Databases.](https://dl.acm.org/doi/abs/10.14778/3389133.3389136)[[Code]](https://zenodo.org/record/6544901#.Y60s_tVBzP9)
@@ -85,7 +86,7 @@ Rank checking: http://portal.core.edu.au/conf-ranks/
 - [2018 - Identifying impactful service system problems via log analysis.](https://dl.acm.org/doi/abs/10.1145/3236024.3236083)
 - [2017 - Mining causality of network events in log data.](https://ieeexplore.ieee.org/abstract/document/8122062) [[Code]](https://github.com/cpflat/LogCausalAnalysis)
 
-## Academic Researcher
+# Academic Researcher
 - [Assoc Prof. Hongyu Zhang - Newcastle University](https://sites.google.com/site/hongyujohn/)
 - [Assoc Prof. Dan Pei - Tsinghua University](https://netman.aiops.org/~peidan/)
 - [Dr. Dongmei Zhang - Microsoft Asia Research](https://www.microsoft.com/en-us/research/people/dongmeiz/)

@@ -41,8 +41,6 @@
 - Online Boutique - https://github.com/GoogleCloudPlatform/microservices-demo (10 microservices) [1](https://dl.acm.org/doi/10.1145/3442381.3449905)
 - Sock Shop - https://github.com/microservices-demo, https://microservices-demo.github.io/
 
-## Other
-- [Computer Security Incident Handling Guide](https://nvlpubs.nist.gov/nistpubs/specialpublications/nist.sp.800-61r2.pdf)
 
 ## Dataset
 
@@ -52,7 +50,10 @@
 - [A list of security log data.](http://www.secrepo.com)
 - [Apache log files.](https://www.sec.gov/dera/data/edgar-log-file-data-set.html)
 - [Toward generating a new intrusion detection dataset and intrusion traffic characterization.](https://www.researchgate.net/publication/322870768_Toward_Generating_a_New_Intrusion_Detection_Dataset_and_Intrusion_Traffic_Characterization)
-- [Train ticket: A benchmark microservice system.](https://github.com/FudanSELab/train-ticket/), [How to use](https://link.springer.com/chapter/10.1007/978-3-030-76352-7_17)
+
+
+## Other
+- [Computer Security Incident Handling Guide](https://nvlpubs.nist.gov/nistpubs/specialpublications/nist.sp.800-61r2.pdf)
 
 
 # Academic Conferences and Journals

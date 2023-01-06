@@ -91,5 +91,6 @@ Rank checking: http://portal.core.edu.au/conf-ranks/
 # Academic Researcher
 - [Assoc Prof. Hongyu Zhang - Newcastle University](https://sites.google.com/site/hongyujohn/)
 - [Assoc Prof. Dan Pei - Tsinghua University](https://netman.aiops.org/~peidan/)
+- [Prof. Peng Xin - Fudan University](https://cspengxin.github.io/)
 - [Dr. Dongmei Zhang - Microsoft Asia Research](https://www.microsoft.com/en-us/research/people/dongmeiz/)
 - [Qingwei Lin - Microsoft Research Asia](https://www.microsoft.com/en-us/research/people/qlin/publications/)

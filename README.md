@@ -1,6 +1,5 @@
-# awesome-incident-management
+# Incident Management for Large-scale Systems
 
-- [awesome-incident-management](#awesome-incident-management)
 - [Public Resource](#public-resource)
   * [Big tech cloud incident status](#big-tech-cloud-incident-status)
   * [Github](#github)

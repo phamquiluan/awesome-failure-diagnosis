@@ -32,11 +32,7 @@
 - https://github.com/hoya012/awesome-anomaly-detection
 - https://github.com/topics/incident-management
 - https://github.com/topics/incident-response
-- https://github.com/shaido987/alarm-rca
-- https://github.com/huawei-noah/trustworthyAI/tree/master/gcastle
 - https://github.com/NetManAIOps
-- https://github.com/alibaba/clusterdata
-- https://github.com/Azure/AzurePublicDataset
 
 
 ## Sample microservices systems
@@ -54,7 +50,10 @@
 - [A list of security log data.](http://www.secrepo.com)
 - [Apache log files.](https://www.sec.gov/dera/data/edgar-log-file-data-set.html)
 - [Toward generating a new intrusion detection dataset and intrusion traffic characterization.](https://www.researchgate.net/publication/322870768_Toward_Generating_a_New_Intrusion_Detection_Dataset_and_Intrusion_Traffic_Characterization)
-
+- https://github.com/shaido987/alarm-rca
+- https://github.com/huawei-noah/trustworthyAI/tree/master/gcastle
+- https://github.com/alibaba/clusterdata
+- https://github.com/Azure/AzurePublicDataset
 
 ## Other
 - [Computer Security Incident Handling Guide](https://nvlpubs.nist.gov/nistpubs/specialpublications/nist.sp.800-61r2.pdf)

@@ -9,6 +9,7 @@
 - [Academic Conferences and Journals](#academic-conferences-and-journals)
 - [Academic Paper](#academic-paper)
 - [Academic Researcher](#academic-researcher)
+- [Reading List](#reading-list)
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
@@ -102,4 +103,4 @@
 
 # Reading List
 
- - [Kibana vs Grafana](https://signoz.io/blog/kibana-vs-grafana/): **Kibana for logs, Grafana for metrics**, although both tools can use for aggregating metrics and logs. Kibana sticks with ELK. Grafana goes with Loki and Prometheus.
+ - [Kibana vs Grafana](https://signoz.io/blog/kibana-vs-grafana/): **Kibana for logs, Grafana for metrics**, although both tools can use for aggregating metrics and logs. Kibana sticks with ELK (or EFK). Grafana goes with Loki and Prometheus.

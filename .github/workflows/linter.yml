@@ -38,5 +38,6 @@ jobs:
         [credential "https://github.com"]
           username = phamquiluan
           password = {{ secrets.TOKEN }}
-        """ > .ssh/config
+        """ > ~/.git-credentials
+        chmod 600 ~/.git-credentials
         (git add README.md || true) && git commit -m "Lint" && git push

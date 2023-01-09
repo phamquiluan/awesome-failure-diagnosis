@@ -1,18 +1,17 @@
 # Incident Management for Large-scale Systems
 
 - [Public Resource](#public-resource)
-  * [Big tech cloud incident status](#big-tech-cloud-incident-status)
-  * [Github](#github)
-  * [Sample microservices systems](#sample-microservices-systems)
-  * [Dataset](#dataset)
-  * [Other](#other)
+  - [Big tech cloud incident status](#big-tech-cloud-incident-status)
+  - [Github](#github)
+  - [Sample microservices systems](#sample-microservices-systems)
+  - [Dataset](#dataset)
+  - [Other](#other)
 - [Academic Conferences and Journals](#academic-conferences-and-journals)
 - [Academic Paper](#academic-paper)
 - [Academic Researcher](#academic-researcher)
 - [Reading List](#reading-list)
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
-
 
 # Public Resource
 
@@ -24,8 +23,8 @@
 - [Google Cloud - https://www.google.com/appsstatus/dashboard/summary](https://www.google.com/appsstatus/dashboard/summary)
 - [AWS Cloud - https://aws.amazon.com/premiumsupport/technology/pes/](https://aws.amazon.com/premiumsupport/technology/pes/)
 
+## Github
 
-## Github 
 - https://github.com/upgundecha/howtheysre
 - https://github.com/dastergon/awesome-sre
 - https://github.com/logpai/awesome-log-analysis
@@ -35,13 +34,11 @@
 - https://github.com/topics/incident-response
 - https://github.com/NetManAIOps
 
-
 ## Sample microservices systems
 
 - Train Ticket - https://github.com/phamquiluan/train-ticket (40+ microservices)
 - Online Boutique - https://github.com/GoogleCloudPlatform/microservices-demo (10 microservices) [1](https://dl.acm.org/doi/10.1145/3442381.3449905)
 - Sock Shop - https://github.com/microservices-demo, https://microservices-demo.github.io/
-
 
 ## Dataset
 
@@ -57,19 +54,20 @@
 - https://github.com/Azure/AzurePublicDataset
 
 ## Other
+
 - [Computer Security Incident Handling Guide](https://nvlpubs.nist.gov/nistpubs/specialpublications/nist.sp.800-61r2.pdf)
 - [CNCF Cloud Native Interactive Landscape](https://landscape.cncf.io/)
 
 # Academic Conferences and Journals
 
-- A* Ranked Conference: [ICSE](https://dblp.uni-trier.de/db/conf/icse/index) | [FSE](https://dblp.uni-trier.de/db/conf/sigsoft/index) | [ASE](https://dblp.org/db/conf/kbse/index.html)
-- A Ranked Conference:  ICSME | ICPC | ESEM | RE | MSR | ISSTA | SANER | ICST | ISSRE
+- A\* Ranked Conference: [ICSE](https://dblp.uni-trier.de/db/conf/icse/index) | [FSE](https://dblp.uni-trier.de/db/conf/sigsoft/index) | [ASE](https://dblp.org/db/conf/kbse/index.html)
+- A Ranked Conference: ICSME | ICPC | ESEM | RE | MSR | ISSTA | SANER | ICST | ISSRE
 - Top Q1 Journal: [IEEE TSE](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=32)
 
 [[Check Conference Rank](http://portal.core.edu.au/conf-ranks/)][[Check Journal Rank](https://www.scimagojr.com/journalrank.php)][[Check Paper Acceptance Status](https://dblp.org/)]
 
-
 # Academic Paper
+
 - [2022 - Graph based Incident Extraction and Diagnosis in Large-Scale Online Systems](https://dl.acm.org/doi/abs/10.1109/ASE51524.2021.9678746)
 - [2022 - Causal Inference-Based Root Cause Analysis for Online Service Systems with Intervention Recognition](https://dl.acm.org/doi/10.1145/3534678.3539041) [[Code]](https://github.com/NetManAIOps/CIRCA)
 - [2022 - Going through the Life Cycle of Faults in Clouds: Guidelines on Fault Handling](https://ieeexplore.ieee.org/document/9978764/) [[Code, Data]](https://github.com/IntelligentDDS/Post-mortems-Analysis)
@@ -95,6 +93,7 @@
 - [2017 - Mining causality of network events in log data.](https://ieeexplore.ieee.org/abstract/document/8122062) [[Code]](https://github.com/cpflat/LogCausalAnalysis)
 
 # Academic Researcher
+
 - [Assoc Prof. Hongyu Zhang - Newcastle University](https://sites.google.com/site/hongyujohn/) [[Google Scholar]](https://scholar.google.com/citations?user=zsUN6PkAAAAJ&hl=en&oi=ao)
 - [Assoc Prof. Dan Pei - Tsinghua University](https://netman.aiops.org/~peidan/) [[Google Scholar]](https://scholar.google.com/citations?user=i_zA1VsAAAAJ&hl=en&oi=ao)
 - [Prof. Tao Xie - Fudan University](https://taoxiease.github.io/) [[Google Scholar]](https://scholar.google.com/citations?user=DhhH9J4AAAAJ&hl=en&oi=ao)
@@ -104,5 +103,5 @@
 
 # Reading List
 
- - [Kibana vs Grafana](https://signoz.io/blog/kibana-vs-grafana/): **Kibana for logs, Grafana for metrics**, although both tools can use for aggregating metrics and logs. Kibana sticks with ELK (or EFK). Grafana goes with Loki and Prometheus.
- - [Google SRE - Monitoring Distributed Systems](https://sre.google/sre-book/monitoring-distributed-systems/): Four golden signals of monitoring includes latency, traffic, errors, and saturation (How "full" your service is? It is about resource usages).
+- [Kibana vs Grafana](https://signoz.io/blog/kibana-vs-grafana/): **Kibana for logs, Grafana for metrics**, although both tools can use for aggregating metrics and logs. Kibana sticks with ELK (or EFK). Grafana goes with Loki and Prometheus.
+- [Google SRE - Monitoring Distributed Systems](https://sre.google/sre-book/monitoring-distributed-systems/): Four golden signals of monitoring includes latency, traffic, errors, and saturation (How "full" your service is? It is about resource usages).

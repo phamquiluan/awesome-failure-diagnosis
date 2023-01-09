@@ -29,6 +29,6 @@ jobs:
                 types_of: [markdown]
         """ > .pre-commit-config.yaml
         pre-commit install 
-        pre-commit run --all-files
+        pre-commit run --all-files || true
     - name: Add and push files into github
       run: (git add README.md || true) && git commit -m "Lint" && git push

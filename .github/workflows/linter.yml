@@ -31,4 +31,12 @@ jobs:
         pre-commit install 
         pre-commit run --all-files || true
     - name: Add and push files into github
-      run: (git add README.md || true) && git commit -m "Lint" && git push
+      run: |
+        echo """
+        [credential]
+          helper = store
+        [credential "https://github.com"]
+          username = phamquiluan
+          password = {{ secrets.TOKEN }}
+        """ > .ssh/config
+        (git add README.md || true) && git commit -m "Lint" && git push

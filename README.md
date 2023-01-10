@@ -38,6 +38,8 @@
 - https://github.com/logpai/awesome-log-analysis
 - https://github.com/yzhao062/anomaly-detection-resources
 - https://github.com/hoya012/awesome-anomaly-detection
+- https://github.com/adriannovegil/awesome-observability
+- https://github.com/dastergon/awesome-chaos-engineering
 - https://github.com/topics/incident-management
 - https://github.com/topics/incident-response
 - https://github.com/NetManAIOps

@@ -2,8 +2,22 @@
 
 [![Linter](https://github.com/phamquiluan/awesome-incident-management/actions/workflows/linter.yml/badge.svg)](https://github.com/phamquiluan/awesome-incident-management/actions/workflows/linter.yml)
 
-<!-- START doctoc -->
-<!-- END doctoc -->
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**
+
+- [Public Resource](#public-resource)
+  - [Big tech cloud incident status](#big-tech-cloud-incident-status)
+  - [Github](#github)
+  - [Sample microservices systems](#sample-microservices-systems)
+  - [Dataset](#dataset)
+  - [Other](#other)
+- [Academic Conferences and Journals](#academic-conferences-and-journals)
+- [Academic Paper](#academic-paper)
+- [Academic Researcher](#academic-researcher)
+- [Reading List](#reading-list)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 # Public Resource
 

@@ -41,6 +41,7 @@
 - https://github.com/hoya012/awesome-anomaly-detection
 - https://github.com/adriannovegil/awesome-observability
 - https://github.com/dastergon/awesome-chaos-engineering
+- https://github.com/awesome-foss/awesome-sysadmin
 - https://github.com/topics/incident-management
 - https://github.com/topics/incident-response
 - https://github.com/NetManAIOps
@@ -116,6 +117,7 @@
 
 # Reading List
 
+- [AWS Observability Recipes](https://aws-observability.github.io/aws-o11y-recipes/)
 - [Monitoring the Golden Signals (Latency, Traffic, Errors, and Saturation)](https://www.slideshare.net/OpsStack/how-to-monitoring-the-sre-golden-signals-ebook)
 - [Kibana vs Grafana](https://signoz.io/blog/kibana-vs-grafana/): **Kibana for logs, Grafana for metrics**, although both tools can use for aggregating metrics and logs. Kibana sticks with ELK (or EFK). Grafana goes with Loki and Prometheus.
 - [Google SRE - Monitoring Distributed Systems](https://sre.google/sre-book/monitoring-distributed-systems/): Four golden signals of monitoring includes latency, traffic, errors, and saturation (How "full" your service is? It is about resource usages).

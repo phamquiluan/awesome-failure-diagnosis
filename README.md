@@ -38,9 +38,10 @@
 
 ## Sample microservices systems
 
-- Train Ticket - https://github.com/phamquiluan/train-ticket (40+ microservices)
-- Online Boutique - https://github.com/GoogleCloudPlatform/microservices-demo (10 microservices)
-- Sock Shop - https://github.com/microservices-demo, https://microservices-demo.github.io/
+- [Train Ticket @ Fudan University](https://github.com/FudanSELab/train-ticket) (40+ microservices)
+- [Train Ticket @ Tsinghua University](https://github.com/lizeyan/train-ticket)
+- [Online Boutique @ Google Cloud](https://github.com/GoogleCloudPlatform/microservices-demo) (10 microservices)
+- [Sock Shop](https://github.com/microservices-demo) https://microservices-demo.github.io/
 
 ## Dataset
 

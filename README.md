@@ -30,6 +30,7 @@
 - [Google Cloud - https://status.cloud.google.com/summary](https://status.cloud.google.com/summary)
 - [Google Cloud - https://www.google.com/appsstatus/dashboard/summary](https://www.google.com/appsstatus/dashboard/summary)
 - [AWS Cloud - https://aws.amazon.com/premiumsupport/technology/pes/](https://aws.amazon.com/premiumsupport/technology/pes/)
+- [Verica Open Incident Database](https://www.thevoid.community/)
 
 ## Github
 

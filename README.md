@@ -2,18 +2,8 @@
 
 [![Linter](https://github.com/phamquiluan/awesome-incident-management/actions/workflows/linter.yml/badge.svg)](https://github.com/phamquiluan/awesome-incident-management/actions/workflows/linter.yml)
 
-- [Public Resource](#public-resource)
-  - [Big tech cloud incident status](#big-tech-cloud-incident-status)
-  - [Github](#github)
-  - [Sample microservices systems](#sample-microservices-systems)
-  - [Dataset](#dataset)
-  - [Other](#other)
-- [Academic Conferences and Journals](#academic-conferences-and-journals)
-- [Academic Paper](#academic-paper)
-- [Academic Researcher](#academic-researcher)
-- [Reading List](#reading-list)
-
-<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+<!-- START doctoc -->
+<!-- END doctoc -->
 
 # Public Resource
 

@@ -4,7 +4,6 @@
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-
 **Table of Contents**
 
 - [Public Resource](#public-resource)
@@ -17,6 +16,7 @@
 - [Academic Paper](#academic-paper)
 - [Academic Researcher](#academic-researcher)
 - [Reading List](#reading-list)
+- [Video](#video)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 

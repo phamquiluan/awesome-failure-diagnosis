@@ -30,20 +30,6 @@
 - [AWS Cloud - https://aws.amazon.com/premiumsupport/technology/pes/](https://aws.amazon.com/premiumsupport/technology/pes/)
 - [Verica Open Incident Database](https://www.thevoid.community/)
 
-## Github
-
-- https://github.com/upgundecha/howtheysre
-- https://github.com/dastergon/awesome-sre
-- https://github.com/logpai/awesome-log-analysis
-- https://github.com/yzhao062/anomaly-detection-resources
-- https://github.com/hoya012/awesome-anomaly-detection
-- https://github.com/adriannovegil/awesome-observability
-- https://github.com/dastergon/awesome-chaos-engineering
-- https://github.com/awesome-foss/awesome-sysadmin
-- https://github.com/topics/incident-management
-- https://github.com/topics/incident-response
-- https://github.com/NetManAIOps
-
 ## Sample microservices systems
 
 - [Train Ticket @ Fudan University](https://github.com/FudanSELab/train-ticket) (40+ microservices)
@@ -63,6 +49,10 @@
 - https://github.com/huawei-noah/trustworthyAI/tree/master/gcastle
 - https://github.com/alibaba/clusterdata
 - https://github.com/Azure/AzurePublicDataset
+
+## Tools
+
+- https://github.com/blue-yonder/tsfresh: Time-series feature extraction
 
 ## Other
 
@@ -124,3 +114,14 @@
 
 - [Adobe - The Good, the Bad and the Ugly: The 3 Learnings of an SRE](https://www.usenix.org/conference/srecon20americas/presentation/charagondla)
 - [The Smallest Possible SRE Team](https://www.usenix.org/conference/srecon20americas/presentation/thomas)
+
+# Others
+
+- https://github.com/upgundecha/howtheysre
+- https://github.com/dastergon/awesome-sre
+- https://github.com/logpai/awesome-log-analysis
+- https://github.com/yzhao062/anomaly-detection-resources
+- https://github.com/hoya012/awesome-anomaly-detection
+- https://github.com/adriannovegil/awesome-observability
+- https://github.com/dastergon/awesome-chaos-engineering
+- https://github.com/awesome-foss/awesome-sysadmin

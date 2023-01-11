@@ -15,7 +15,9 @@ jobs:
     - name: TOC Generator
       uses: technote-space/toc-generator@v4.0.0
       with: 
-        TOC_TITLE: "\n hihi"
+        TOC_TITLE: """
+        hihi
+        """
     - uses: actions/checkout@v3
     - name: Set up Python 3.10
       uses: actions/setup-python@v3

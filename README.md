@@ -59,15 +59,14 @@
 - https://prometheus.io/docs
 - https://github.com/blue-yonder/tsfresh: Time-series feature extraction
 
-
 ## Logs
 
 - ELK ([Elasticsearch](https://github.com/elastic/elasticsearch) + [Logstash](https://www.elastic.co/logstash/) + [Kibana](https://www.elastic.co/kibana/))
 - EFK ([Elasticsearch](https://github.com/elastic/elasticsearch) + [Fluentd](https://www.fluentd.org/) + [Kibana](https://www.elastic.co/kibana/))
 - https://github.com/grafana/loki
 
-
 ## Traces
+
 - https://github.com/apache/skywalking
 - https://github.com/jaegertracing/jaeger
 - https://github.com/openzipkin/zipkin
@@ -76,7 +75,6 @@
 
 - https://github.com/locustio/locust
 - https://github.com/apache/jmeter
-
 
 # Academia
 
@@ -132,7 +130,6 @@
 - [Google SRE - Monitoring Distributed Systems](https://sre.google/sre-book/monitoring-distributed-systems/): Four golden signals of monitoring includes latency, traffic, errors, and saturation (How "full" your service is? It is about resource usages).
 - [Computer Security Incident Handling Guide](https://nvlpubs.nist.gov/nistpubs/specialpublications/nist.sp.800-61r2.pdf)
 - [CNCF Cloud Native Interactive Landscape](https://landscape.cncf.io/)
-
 
 # Video
 

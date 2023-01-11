@@ -15,6 +15,7 @@
 - [Academic Paper](#academic-paper)
 - [Academic Researcher](#academic-researcher)
 - [Reading List](#reading-list)
+- [Video](#video)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 

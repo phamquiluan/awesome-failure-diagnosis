@@ -21,9 +21,7 @@
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-# Public Resource
-
-## Big tech cloud incident status
+# Big tech cloud incident status
 
 - [Azure Cloud - https://status.azure.com/en-us/status/history](https://status.azure.com/en-us/status/history)
 - [IBM Cloud - https://cloud.ibm.com/status/incident-reports](https://cloud.ibm.com/status/incident-reports)
@@ -32,14 +30,14 @@
 - [AWS Cloud - https://aws.amazon.com/premiumsupport/technology/pes/](https://aws.amazon.com/premiumsupport/technology/pes/)
 - [Verica Open Incident Database](https://www.thevoid.community/)
 
-## Sample microservices systems
+# Sample microservices systems
 
 - [Train Ticket @ Fudan University](https://github.com/FudanSELab/train-ticket) (40+ microservices)
 - [Train Ticket @ Tsinghua University](https://github.com/lizeyan/train-ticket)
 - [Online Boutique @ Google Cloud](https://github.com/GoogleCloudPlatform/microservices-demo) (10 microservices)
 - [Sock Shop](https://github.com/microservices-demo) https://microservices-demo.github.io/
 
-## Dataset
+# Dataset
 
 - https://github.com/logpai/loghub
 - [Error logs produced by OpenStack.](https://figshare.com/articles/Failure_dataset/7732268/2)
@@ -52,14 +50,31 @@
 - https://github.com/alibaba/clusterdata
 - https://github.com/Azure/AzurePublicDataset
 
-## Tools
+# Tools
 
+## Metrics
+
+- https://prometheus.io/docs
 - https://github.com/blue-yonder/tsfresh: Time-series feature extraction
 
-## Other
 
-- [Computer Security Incident Handling Guide](https://nvlpubs.nist.gov/nistpubs/specialpublications/nist.sp.800-61r2.pdf)
-- [CNCF Cloud Native Interactive Landscape](https://landscape.cncf.io/)
+## Logs
+
+- ELK ([Elasticsearch](https://github.com/elastic/elasticsearch) + [Logstash](https://www.elastic.co/logstash/) + [Kibana](https://www.elastic.co/kibana/))
+- EFK ([Elasticsearch](https://github.com/elastic/elasticsearch) + [Fluentd](https://www.fluentd.org/) + [Kibana](https://www.elastic.co/kibana/))
+- https://github.com/grafana/loki
+
+
+## Traces
+- https://github.com/apache/skywalking
+- https://github.com/jaegertracing/jaeger
+- https://github.com/openzipkin/zipkin
+
+## Load generators
+
+- https://github.com/locustio/locust
+- https://github.com/apache/jmeter
+
 
 # Academia
 
@@ -113,6 +128,9 @@
 - [Monitoring the Golden Signals (Latency, Traffic, Errors, and Saturation)](https://www.slideshare.net/OpsStack/how-to-monitoring-the-sre-golden-signals-ebook)
 - [Kibana vs Grafana](https://signoz.io/blog/kibana-vs-grafana/): **Kibana for logs, Grafana for metrics**, although both tools can use for aggregating metrics and logs. Kibana sticks with ELK (or EFK). Grafana goes with Loki and Prometheus.
 - [Google SRE - Monitoring Distributed Systems](https://sre.google/sre-book/monitoring-distributed-systems/): Four golden signals of monitoring includes latency, traffic, errors, and saturation (How "full" your service is? It is about resource usages).
+- [Computer Security Incident Handling Guide](https://nvlpubs.nist.gov/nistpubs/specialpublications/nist.sp.800-61r2.pdf)
+- [CNCF Cloud Native Interactive Landscape](https://landscape.cncf.io/)
+
 
 # Video
 

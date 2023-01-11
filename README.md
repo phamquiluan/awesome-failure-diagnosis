@@ -5,12 +5,14 @@
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
-- [Public Resource](#public-resource)
-  - [Big tech cloud incident status](#big-tech-cloud-incident-status)
-  - [Sample microservices systems](#sample-microservices-systems)
-  - [Dataset](#dataset)
-  - [Tools](#tools)
-  - [Other](#other)
+- [Big tech cloud incident status](#big-tech-cloud-incident-status)
+- [Sample microservices systems](#sample-microservices-systems)
+- [Dataset](#dataset)
+- [Tools](#tools)
+  - [Metrics](#metrics)
+  - [Logs](#logs)
+  - [Traces](#traces)
+  - [Load generators](#load-generators)
 - [Academia](#academia)
   - [Conferences and Journals](#conferences-and-journals)
   - [Paper](#paper)

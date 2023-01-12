@@ -78,11 +78,14 @@
 - [Locust](https://github.com/locustio/locust): a load testing tool for web applications. It is used to simulate a large number of users accessing a web application simultaneously, in order to test its performance and scalability.
 - [Jmeter](https://github.com/apache/jmeter): a testing tool used to test the performance of web applications, databases, and APIs. It can simulate a heavy load on a server, group of servers, network, or object to test its strength or to analyze overall performance under different load types. It can also be used to test the performance of different protocols such as HTTP, FTP, TCP, JDBC, and JMS.
 - [Stress-ng](https://github.com/ColinIanKing/stress-ng): a tool that can be used to stress test various aspects of a Linux system, such as the CPU, memory, I/O, and network.
+- [wrk2](https://github.com/giltene/wrk2): HTTP workload generator.
 
 ## Chaos Engineering / Fault Injection
 
 - [Chaos Mesh](https://github.com/chaos-mesh/chaos-mesh): an open-source chaos engineering platform for Kubernetes. It provides a set of APIs and CLI tools that allow users to define and orchestrate chaos experiments, such as network latency injection, pod failure, etc.
 - [TC (Traffic Control)](https://man7.org/linux/man-pages/man8/tc.8.html): Delay and drop packets.
+- [tc-netem (Network Emulator)](https://man7.org/linux/man-pages/man8/tc-netem.8.html): an enhancement of the Linux traffic control facilities that allow one to add delay, packet loss, duplication and more other characteristics to packets outgoing from a selected network interface. NetEm is built using the existing Quality Of Service (QOS) and Differentiated Services (diffserv) facilities in the Linux kernel.
+
 
 # Academia
 

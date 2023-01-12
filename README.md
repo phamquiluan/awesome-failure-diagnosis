@@ -61,6 +61,7 @@
 
 ## Logs
 
+- https://github.com/logpai/loglizer
 - ELK ([Elasticsearch](https://github.com/elastic/elasticsearch) + [Logstash](https://www.elastic.co/logstash/) + [Kibana](https://www.elastic.co/kibana/))
 - EFK ([Elasticsearch](https://github.com/elastic/elasticsearch) + [Fluentd](https://www.fluentd.org/) + [Kibana](https://www.elastic.co/kibana/))
 - https://github.com/grafana/loki

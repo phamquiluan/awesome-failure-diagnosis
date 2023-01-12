@@ -5,7 +5,6 @@
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
-- [Incident Management for Large-scale Systems](#incident-management-for-large-scale-systems)
 - [Big tech cloud incident status](#big-tech-cloud-incident-status)
 - [Sample microservices systems](#sample-microservices-systems)
 - [Dataset](#dataset)

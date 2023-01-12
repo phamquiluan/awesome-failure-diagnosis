@@ -82,6 +82,7 @@
 ## Chaos Engineering / Fault Injection
 
 - [Chaos Mesh](https://github.com/chaos-mesh/chaos-mesh): an open-source chaos engineering platform for Kubernetes. It provides a set of APIs and CLI tools that allow users to define and orchestrate chaos experiments, such as network latency injection, pod failure, etc.
+- [TC (Traffic Control)](https://man7.org/linux/man-pages/man8/tc.8.html): Delay and drop packets.
 
 # Academia
 

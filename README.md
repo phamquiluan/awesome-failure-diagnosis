@@ -75,8 +75,9 @@
 
 ## Load generators
 
-- https://github.com/locustio/locust
-- https://github.com/apache/jmeter
+- [Locust](https://github.com/locustio/locust): a load testing tool for web applications. It is used to simulate a large number of users accessing a web application simultaneously, in order to test its performance and scalability.
+- [Jmeter](https://github.com/apache/jmeter): a testing tool used to test the performance of web applications, databases, and APIs. It can simulate a heavy load on a server, group of servers, network, or object to test its strength or to analyze overall performance under different load types. It can also be used to test the performance of different protocols such as HTTP, FTP, TCP, JDBC, and JMS.
+- [Stress-ng](https://github.com/ColinIanKing/stress-ng): a tool that can be used to stress test various aspects of a Linux system, such as the CPU, memory, I/O, and network.
 
 ## Chaos Engineering / Fault Injection
 

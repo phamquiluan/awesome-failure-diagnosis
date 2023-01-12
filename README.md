@@ -77,6 +77,10 @@
 - https://github.com/locustio/locust
 - https://github.com/apache/jmeter
 
+## Chaos Engineering / Fault Injection
+
+- [Chaos Mesh](https://github.com/chaos-mesh/chaos-mesh): an open-source chaos engineering platform for Kubernetes. It provides a set of APIs and CLI tools that allow users to define and orchestrate chaos experiments, such as network latency injection, pod failure, etc.
+
 # Academia
 
 ## Conferences and Journals

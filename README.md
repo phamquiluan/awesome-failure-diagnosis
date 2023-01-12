@@ -91,7 +91,7 @@
 - [tc-netem (Network Emulator)](https://man7.org/linux/man-pages/man8/tc-netem.8.html): an enhancement of the Linux traffic control facilities that allow one to add delay, packet loss, duplication and more other characteristics to packets outgoing from a selected network interface. NetEm is built using the existing Quality Of Service (QOS) and Differentiated Services (diffserv) facilities in the Linux kernel.
 - https://github.com/Netflix/chaosmonkey
 - [ChaosBlade](https://github.com/chaosblade-io/chaosblade): a performance testing and analysis tool for microservices. It allows users to simulate various types of failures and network conditions, such as network delays and packet loss, to test the resilience and stability of microservices in a controlled environment.
-- [Strace](https://strace.io/):  a diagnostic, debugging and instructional userspace utility for Linux. It is used to monitor and tamper with interactions between processes and the Linux kernel, which include system calls, signal deliveries, and changes of process state.
+- [Strace](https://strace.io/): a diagnostic, debugging and instructional userspace utility for Linux. It is used to monitor and tamper with interactions between processes and the Linux kernel, which include system calls, signal deliveries, and changes of process state.
 
 # Academia
 

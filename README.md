@@ -13,6 +13,7 @@
   - [Logs](#logs)
   - [Traces](#traces)
   - [Load generators](#load-generators)
+  - [Chaos Engineering / Fault Injection](#chaos-engineering--fault-injection)
 - [Academia](#academia)
   - [Conferences and Journals](#conferences-and-journals)
   - [Paper](#paper)

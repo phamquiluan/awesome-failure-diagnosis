@@ -73,7 +73,7 @@
 - https://github.com/apache/skywalking
 - https://github.com/jaegertracing/jaeger
 - https://github.com/openzipkin/zipkin
-- [OpenTelemetry](https://opentelemetry.io/docs/concepts/signals/): supports metrics, logs, and traces. 
+- [OpenTelemetry](https://opentelemetry.io/docs/concepts/signals/): supports metrics, logs, and traces.
 
 ## Load generators
 

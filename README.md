@@ -59,6 +59,7 @@
 
 - https://prometheus.io/docs
 - https://github.com/blue-yonder/tsfresh: Time-series feature extraction
+- [cAdvisor (Container Advisor)](https://github.com/google/cadvisor): Analyzes resource usage and performance characteristics of running containers.
 
 ## Logs
 
@@ -140,6 +141,7 @@
 - [Google SRE - Monitoring Distributed Systems](https://sre.google/sre-book/monitoring-distributed-systems/): Four golden signals of monitoring includes latency, traffic, errors, and saturation (How "full" your service is? It is about resource usages).
 - [Computer Security Incident Handling Guide](https://nvlpubs.nist.gov/nistpubs/specialpublications/nist.sp.800-61r2.pdf)
 - [CNCF Cloud Native Interactive Landscape](https://landscape.cncf.io/)
+- [Inside Azure Search: Chaos Engineering](https://azure.microsoft.com/en-us/blog/inside-azure-search-chaos-engineering/): Chaos engineering is the practice of intentionally introducing controlled failures and disruptions into a system to test its resilience and identify potential vulnerabilities.
 
 # Video
 

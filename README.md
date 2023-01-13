@@ -95,6 +95,7 @@
 - https://github.com/Netflix/chaosmonkey
 - [ChaosBlade](https://github.com/chaosblade-io/chaosblade): a performance testing and analysis tool for microservices. It allows users to simulate various types of failures and network conditions, such as network delays and packet loss, to test the resilience and stability of microservices in a controlled environment.
 - [Strace](https://strace.io/): a diagnostic, debugging and instructional userspace utility for Linux. It is used to monitor and tamper with interactions between processes and the Linux kernel, which include system calls, signal deliveries, and changes of process state.
+- [Chaos Toolkit](https://github.com/chaostoolkit/chaostoolkit): a CLI tool which helps to run Chaos Engineering experiments.
 
 # Academia
 

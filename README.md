@@ -180,3 +180,4 @@
 - https://github.com/adriannovegil/awesome-observability
 - https://github.com/dastergon/awesome-chaos-engineering
 - https://github.com/awesome-foss/awesome-sysadmin
+- https://github.com/rguo12/awesome-causality-algorithms

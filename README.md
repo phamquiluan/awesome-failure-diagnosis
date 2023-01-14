@@ -40,6 +40,7 @@
 
 - [Train Ticket @ Fudan University](https://github.com/FudanSELab/train-ticket) (40+ microservices)
 - [Train Ticket @ Tsinghua University](https://github.com/lizeyan/train-ticket)
+- [How to deloy Train Ticket system](docs/how-to-deploy-train-ticket.md)
 - [Online Boutique @ Google Cloud](https://github.com/GoogleCloudPlatform/microservices-demo) (10 microservices)
 - [Sock Shop](https://github.com/microservices-demo) https://microservices-demo.github.io/
 

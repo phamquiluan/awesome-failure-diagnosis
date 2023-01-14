@@ -47,4 +47,4 @@ jobs:
         chmod 600 ~/.git-credentials
         git config --global user.email "phamquiluan@gmail.com"
         git config --global user.name "Luan Pham"        
-        (git add README.md && git commit -m "chore(docs): fix styles" && git push) || true
+        (git add README.md docs && git commit -m "chore(docs): fix styles" && git push) || true

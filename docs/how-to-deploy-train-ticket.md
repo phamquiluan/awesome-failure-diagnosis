@@ -59,8 +59,10 @@ make deploy DeployArgs="--with-tracing --with-monitoring"
 ```
 
 9. Observe K8S dashboard, wait for a few minutes
-   <img src="https://user-images.githubusercontent.com/24642166/212910066-91919b79-77e4-4b55-b0bd-42e148adae2a.png" width=700>
-   <img src="https://user-images.githubusercontent.com/24642166/212910351-6344cd3e-40cc-4294-8536-bb88758f95f9.png" width=700>
-   <img src="https://user-images.githubusercontent.com/24642166/212911087-6c8d151e-24eb-418c-b51d-0e69d2b7f552.png" width=700>
+<img src="https://user-images.githubusercontent.com/24642166/212910066-91919b79-77e4-4b55-b0bd-42e148adae2a.png" width=700>
+<img src="https://user-images.githubusercontent.com/24642166/212910351-6344cd3e-40cc-4294-8536-bb88758f95f9.png" width=700>
+<img src="https://user-images.githubusercontent.com/24642166/212911087-6c8d151e-24eb-418c-b51d-0e69d2b7f552.png" width=700>
+<img src="https://user-images.githubusercontent.com/24642166/212911087-6c8d151e-24eb-418c-b51d-0e69d2b7f552.png" width=700>
+<img src="https://user-images.githubusercontent.com/24642166/212925764-6becbc79-131e-4bc8-8dca-e626d1f45663.png" width=700>
 
 <img src="" width=700>

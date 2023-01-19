@@ -4,7 +4,6 @@ Github: https://github.com/GoogleCloudPlatform/microservices-demo
 
 <img src="https://user-images.githubusercontent.com/24642166/213350396-553b812e-b6f6-49c0-96c7-94e7af03df9a.png" width=700>
 
-
 **TODOLIST:**
 
 - [ ] Try this: Enable GCP APIs for Cloud Monitoring, Tracing, Profiler
@@ -87,10 +86,10 @@ skaffold dev
 
 <img src="https://user-images.githubusercontent.com/24642166/213350396-553b812e-b6f6-49c0-96c7-94e7af03df9a.png" width=700>
 
-
 <img src="" width=700>
 
-## Clean up 
+## Clean up
+
 ```bash
 skaffold delete
 ```

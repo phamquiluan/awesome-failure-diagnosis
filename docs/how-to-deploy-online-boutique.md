@@ -39,7 +39,7 @@ watch -n 1 "aws ec2 describe-instances --region $REGION | jq .Reservations[0].In
 ```bash
 ssh that@instance_ip
 ```
-  
+
 </details>
 
 ## Clone
@@ -65,7 +65,7 @@ git clone https://github.com/GoogleCloudPlatform/microservices-demo && cd micros
 kubectl get nodes
 ```
 
-8. Deploy the online boutique system 
+8. Deploy the online boutique system
 
 ```bash
 # first time will be slow, it can take ~20 minutes). This will build and deploy the application.
@@ -73,11 +73,11 @@ skaffold run
 ```
 
 If you need to rebuild the images automatically as you refactor the code.
+
 ```bash
 skaffold dev
 ```
 
 9. Observe K8S dashboard, wait for a few minutes
-
 
 <img src="" width=700>

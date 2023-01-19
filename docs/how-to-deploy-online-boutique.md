@@ -84,7 +84,8 @@ skaffold dev
 
 <img src="" width=700>
 
-## Clean up 
+## Clean up
+
 ```bash
 skaffold delete
 ```

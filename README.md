@@ -50,11 +50,12 @@
 ## Online Boutique
 
 - [Online Boutique @ Google Cloud](https://github.com/GoogleCloudPlatform/microservices-demo) (10 microservices)
-- [How to deloy Train Ticket system](docs/how-to-deploy-online-boutique.md)
+- [How to deloy Online Boutique system](docs/how-to-deploy-online-boutique.md)
 
 ## Sock shop
 
 - [Sock Shop](https://github.com/microservices-demo) https://microservices-demo.github.io/
+- [How to deloy Sock Shop system](docs/how-to-deploy-sock-shop.md)
 
 # Dataset
 

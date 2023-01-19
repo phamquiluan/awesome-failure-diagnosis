@@ -67,8 +67,8 @@ minikube dashboard
 kubectl get nodes
 ```
 
+## Increase the virtual memory limits
 
-##  Increase the virtual memory limits 
 https://www.elastic.co/guide/en/elasticsearch/reference/current/vm-max-map-count.html
 
 ```bash
@@ -77,9 +77,11 @@ sudo sysctl -w vm.max_map_count=262144
 ```
 
 ## Start Fluentd + ELK based logging
+
 ```bash
 kubectl create -f deploy/kubernetes/manifests-logging
 ```
+
 ## Deploy the Sock Shop system
 
 ```bash

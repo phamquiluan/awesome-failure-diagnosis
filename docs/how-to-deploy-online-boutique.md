@@ -83,3 +83,8 @@ skaffold dev
 ## Observe K8S dashboard, wait for a few minutes
 
 <img src="" width=700>
+
+## Clean up 
+```bash
+skaffold delete
+```

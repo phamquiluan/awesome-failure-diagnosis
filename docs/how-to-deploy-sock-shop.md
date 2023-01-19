@@ -3,11 +3,8 @@
 - Homepage: https://microservices-demo.github.io/
 - Github: https://github.com/phamquiluan/sock-shop
 
-<!-- <img src="https://user-images.githubusercontent.com/24642166/213350396-553b812e-b6f6-49c0-96c7-94e7af03df9a.png" width=700> -->
+<img src="https://user-images.githubusercontent.com/24642166/213437581-873841e2-826e-4b70-889b-99148aeb8725.png" width=700/>
 
-**TODOLIST:**
-
-- [ ] Finish this tut
 
 ## Prepare an EC2 Instance
 
@@ -82,33 +79,37 @@ sudo sysctl -w vm.max_map_count=262144
 kubectl create -f deploy/kubernetes/manifests-logging
 ```
 
+```bash
+# create a tunnel
+minikube service kibana -n kube-system
+```
+<img src="https://user-images.githubusercontent.com/24642166/213435121-5659badc-2de2-433c-8075-103f22a720ff.png" width=700>
+
+
 ## Deploy the Sock Shop system
 
 ```bash
-# first time will be slow, it can take ~20 minutes). This will build and deploy the application.
-skaffold run
+kubectl apply -f deploy/kubernetes/manifests/00-sock-shop-ns.yaml -f deploy/kubernetes/manifests
 ```
 
-If you need to rebuild the images automatically as you refactor the code.
-
-```bash
-skaffold dev
-```
 
 ## Observe K8S dashboard, wait for a few minutes
 
-<img src="https://user-images.githubusercontent.com/24642166/213350396-553b812e-b6f6-49c0-96c7-94e7af03df9a.png" width=700>
+<img src="https://user-images.githubusercontent.com/24642166/213435753-e66010fa-35fb-44bd-9981-e2487bc29c68.png" width=700>
+<img src="https://user-images.githubusercontent.com/24642166/213436472-f147721c-c538-4819-84aa-82c27cc6a210.png" width=700>
 
-<img src="" width=700>
 
-## Forward frontend port and access the website
+## Create a tunnel for frontend service access the website
 
 ```bash
-kubectl port-forward deployment/frontend 8080:8080
+minikube service front-end -n sock-shop
 ```
+
+<img src="https://user-images.githubusercontent.com/24642166/213437386-ceafaaed-bfab-4d1d-9426-b90a2f21442a.png" width=700/>
+<img src="https://user-images.githubusercontent.com/24642166/213437581-873841e2-826e-4b70-889b-99148aeb8725.png" width=700/>
 
 ## Clean up
 
 ```bash
-skaffold delete
+minikube delete
 ```

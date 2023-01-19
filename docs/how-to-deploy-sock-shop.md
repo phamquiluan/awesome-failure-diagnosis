@@ -5,7 +5,6 @@
 
 <img src="https://user-images.githubusercontent.com/24642166/213437581-873841e2-826e-4b70-889b-99148aeb8725.png" width=700/>
 
-
 ## Prepare an EC2 Instance
 
 <details>
@@ -83,8 +82,8 @@ kubectl create -f deploy/kubernetes/manifests-logging
 # create a tunnel
 minikube service kibana -n kube-system
 ```
-<img src="https://user-images.githubusercontent.com/24642166/213435121-5659badc-2de2-433c-8075-103f22a720ff.png" width=700>
 
+<img src="https://user-images.githubusercontent.com/24642166/213435121-5659badc-2de2-433c-8075-103f22a720ff.png" width=700>
 
 ## Deploy the Sock Shop system
 
@@ -92,12 +91,10 @@ minikube service kibana -n kube-system
 kubectl apply -f deploy/kubernetes/manifests/00-sock-shop-ns.yaml -f deploy/kubernetes/manifests
 ```
 
-
 ## Observe K8S dashboard, wait for a few minutes
 
 <img src="https://user-images.githubusercontent.com/24642166/213435753-e66010fa-35fb-44bd-9981-e2487bc29c68.png" width=700>
 <img src="https://user-images.githubusercontent.com/24642166/213436472-f147721c-c538-4819-84aa-82c27cc6a210.png" width=700>
-
 
 ## Create a tunnel for frontend service access the website
 

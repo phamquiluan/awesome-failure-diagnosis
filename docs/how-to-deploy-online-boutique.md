@@ -88,6 +88,12 @@ skaffold dev
 
 <img src="" width=700>
 
+## Forward frontend port and access the website
+
+```bash
+kubectl port-forward deployment/frontend 8080:8080
+```
+
 ## Clean up
 
 ```bash

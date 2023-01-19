@@ -54,7 +54,7 @@
 
 ## Sock shop
 
-- [Sock Shop @ RMIT](https://github.com/phamquiluan/sock-shop) https://microservices-demo.github.io/
+- [Sock Shop @ RMIT](https://github.com/phamquiluan/sock-shop)
 - [How to deloy Sock Shop system](docs/how-to-deploy-sock-shop.md)
 
 # Dataset

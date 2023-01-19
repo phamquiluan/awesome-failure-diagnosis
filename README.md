@@ -54,7 +54,7 @@
 
 ## Sock shop
 
-- [Sock Shop](https://github.com/microservices-demo) https://microservices-demo.github.io/
+- [Sock Shop](https://github.com/phamquiluan/sock-shop) https://microservices-demo.github.io/
 - [How to deloy Sock Shop system](docs/how-to-deploy-sock-shop.md)
 
 # Dataset

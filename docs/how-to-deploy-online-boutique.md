@@ -2,7 +2,8 @@
 
 Github: https://github.com/GoogleCloudPlatform/microservices-demo
 
-<img src="https://user-images.githubusercontent.com/24642166/213350396-553b812e-b6f6-49c0-96c7-94e7af03df9a.png" width=700>
+<img src="https://user-images.githubusercontent.com/24642166/213623458-1f140b52-d364-46cd-8e28-430305619226.png" width=700>
+
 
 **TODOLIST:**
 
@@ -99,3 +100,7 @@ kubectl port-forward deployment/frontend 8080:8080
 ```bash
 skaffold delete
 ```
+
+## Papers
+
+- WWW'21 - MicroRank: End-to-End Latency Issue Localization with Extended Spectrum Analysis in Microservice Environments, https://github.com/yuxiaoba/Hipster-Shop

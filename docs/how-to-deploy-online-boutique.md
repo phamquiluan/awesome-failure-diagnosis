@@ -4,7 +4,6 @@ Github: https://github.com/GoogleCloudPlatform/microservices-demo
 
 <img src="https://user-images.githubusercontent.com/24642166/213623458-1f140b52-d364-46cd-8e28-430305619226.png" width=700>
 
-
 **TODOLIST:**
 
 - [ ] Try this: Enable GCP APIs for Cloud Monitoring, Tracing, Profiler

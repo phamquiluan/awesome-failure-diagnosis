@@ -64,6 +64,7 @@
 ## Robot Shop
 
 - [Robot Shop @ Instana](https://github.com/instana/robot-shop)
+- https://www.instana.com/blog/stans-robot-shop-sample-microservice-application/
 
 # Dataset
 

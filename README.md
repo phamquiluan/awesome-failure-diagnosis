@@ -11,6 +11,7 @@
   - [Online Boutique](#online-boutique)
   - [Sock Shop](#sock-shop)
   - [Robot Shop](#robot-shop)
+  - [Bookinfo Application](#bookinfo-application)
 - [Dataset](#dataset)
 - [Tools](#tools)
   - [Metrics](#metrics)

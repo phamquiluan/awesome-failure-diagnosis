@@ -54,11 +54,15 @@
 - [Online Boutique @ Google Cloud](https://github.com/GoogleCloudPlatform/microservices-demo) (10 microservices)
 - [How to deloy Online Boutique system](docs/how-to-deploy-online-boutique.md)
 
-## Sock shop
+## Sock Shop
 
 - [Sock Shop @ RMIT](https://github.com/phamquiluan/sock-shop)
 - [Sock Shop @ Weaveworks](https://github.com/microservices-demo/microservices-demo)
 - [How to deloy Sock Shop system](docs/how-to-deploy-sock-shop.md)
+
+## Robot Shop
+
+- [Robot Shop @ Instana](https://github.com/instana/robot-shop)
 
 # Dataset
 

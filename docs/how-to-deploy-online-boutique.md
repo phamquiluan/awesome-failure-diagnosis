@@ -7,6 +7,8 @@ Github: https://github.com/GoogleCloudPlatform/microservices-demo
 **TODOLIST:**
 
 - [ ] Try this: Enable GCP APIs for Cloud Monitoring, Tracing, Profiler
+- [ ] How to do fault injection
+- [ ] Add reference papers
 
 ## Prepare an EC2 Instance
 

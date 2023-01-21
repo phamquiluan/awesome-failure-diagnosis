@@ -42,6 +42,7 @@
 - [Alibaba Cloud - https://status.alibabacloud.com/](https://status.alibabacloud.com/)
 - [Verica Open Incident Database](https://www.thevoid.community/)
 - [Atlassian](https://status.atlassian.com/)
+- [CircleCI](https://status.circleci.com/)
 
 # Sample microservices systems
 

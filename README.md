@@ -140,6 +140,7 @@
 
 ## Anomaly Detection
 
+- [ICSE'21 - Log-based Anomaly Detection with Deep Learning: How Far Are We?](https://dl.acm.org/doi/10.1145/3510003.3510155)
 - [IPCCC'18 - Rapid deployment of anomaly detection models for large number of emerging kpi streams](https://ieeexplore.ieee.org/document/8711315)
 - [IMC'15 - Opprentice: Towards practical and automatic anomaly detection through machine learning.](https://ieeexplore.ieee.org/document/8711315)
 - [ATC'21 - {Jump-Starting} Multivariate Time Series Anomaly Detection for Online Service Systems](https://www.usenix.org/conference/atc21/presentation/ma)

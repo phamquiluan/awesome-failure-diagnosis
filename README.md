@@ -72,6 +72,10 @@
 
 - https://istio.io/latest/docs/examples/bookinfo/
 
+## EzTravel
+
+- https://wilsonmar.github.io/easytravel/
+
 # Dataset
 
 - https://github.com/logpai/loghub

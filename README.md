@@ -12,6 +12,7 @@
   - [Sock Shop](#sock-shop)
   - [Robot Shop](#robot-shop)
   - [Bookinfo Application](#bookinfo-application)
+  - [EzTravel](#eztravel)
 - [Dataset](#dataset)
 - [Tools](#tools)
   - [Metrics](#metrics)

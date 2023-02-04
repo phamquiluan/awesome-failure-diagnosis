@@ -207,6 +207,7 @@
 
 TODO: focus on finding primary source
 
+- [Causal Inference Course Lectures - Brady Neal](https://www.youtube.com/playlist?list=PLoazKTcS0Rzb6bb9L508cyJ1z-U9iWkA0)
 - [Adobe - The Good, the Bad and the Ugly: The 3 Learnings of an SRE](https://www.usenix.org/conference/srecon20americas/presentation/charagondla)
 - [The Smallest Possible SRE Team](https://www.usenix.org/conference/srecon20americas/presentation/thomas)
 - [Banking on Continuous Delivery - Capital One](https://www.youtube.com/watch?v=_DnYSQEUTfo)

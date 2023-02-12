@@ -72,7 +72,7 @@ make push-image
 
 ```bash
 # create namespace
-k create namespaces tt
+k create namespace tt
 
 # deploy pv
 k apply -f deployment/kubernetes-manifests/k8s-with-jaeger/mongo_pv.yml -n tt

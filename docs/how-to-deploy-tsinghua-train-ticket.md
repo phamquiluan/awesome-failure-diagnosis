@@ -54,7 +54,7 @@ git clone https://github.com/FudanSELab/train-ticket.git && cd train-ticket
 
 8. prepare local registry
 
-```bash 
+```bash
 make registry-data
 docker run -d -p 5000:5000 --restart=always --name registry -v $PWD/registry-data:/var/lib/registry registry:2
 ```
@@ -67,7 +67,6 @@ make package
 make build-image
 make push-image
 ```
-
 
 11. Deploy train-ticket system
 

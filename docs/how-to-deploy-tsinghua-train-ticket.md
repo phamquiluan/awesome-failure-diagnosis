@@ -47,7 +47,7 @@ git clone https://github.com/FudanSELab/train-ticket.git && cd train-ticket
  minikube addons enable metrics-server
 
  # start dashboard
- minikube dashboard
+ minikube dashboard --url
 ```
 
 <img src="https://user-images.githubusercontent.com/24642166/212908441-6a3493fd-c34b-49da-a697-c333342a83dd.png" width=700>

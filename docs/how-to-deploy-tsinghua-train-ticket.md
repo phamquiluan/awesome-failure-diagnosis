@@ -52,7 +52,24 @@ git clone https://github.com/FudanSELab/train-ticket.git && cd train-ticket
 
 <img src="https://user-images.githubusercontent.com/24642166/212908441-6a3493fd-c34b-49da-a697-c333342a83dd.png" width=700>
 
-8. Deploy train-ticket system
+8. prepare local registry
+
+```bash 
+make registry-data
+docker run -d -p 5000:5000 --restart=always --name registry -v $PWD/registry-data:/var/lib/registry registry:2
+```
+
+9. make
+
+```bash
+sudo apt install maven
+make package
+make build-image
+make push-image
+```
+
+
+11. Deploy train-ticket system
 
 ```bash
 make deploy DeployArgs="--with-tracing --with-monitoring"

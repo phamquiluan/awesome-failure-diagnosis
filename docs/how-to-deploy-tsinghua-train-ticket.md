@@ -56,8 +56,9 @@ git clone https://github.com/FudanSELab/train-ticket.git && cd train-ticket
 
 ```bash
 make registry-data
-docker run -d -p 5000:5000 --restart=always --name registry -v $PWD/registry-data:/var/lib/registry registry:2
+docker run -d --rm -it --name registry -v $PWD/registry-data:/var/lib/registry --network=host alpine ash -c "apk add socat && socat TCP-LISTEN:5000,reuseaddr,fork TCP:$(minikube ip):5000"
 ```
+
 
 9. make
 

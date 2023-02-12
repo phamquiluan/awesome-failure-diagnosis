@@ -59,7 +59,6 @@ make registry-data
 docker run -d --rm -it --name registry -v $PWD/registry-data:/var/lib/registry --network=host alpine ash -c "apk add socat && socat TCP-LISTEN:5000,reuseaddr,fork TCP:$(minikube ip):5000"
 ```
 
-
 9. make
 
 ```bash

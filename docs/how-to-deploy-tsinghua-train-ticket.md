@@ -79,7 +79,7 @@ k apply -f deployment/kubernetes-manifests/k8s-with-jaeger/mongo_pv.yml -n tt
 # check with
 k get pvc -n tt
 
-# deploy 
+# deploy
 kubectl apply -n tt -f deployment/kubernetes-manifests/k8s-with-jaeger/ts-deployment-part1.yml
 
 

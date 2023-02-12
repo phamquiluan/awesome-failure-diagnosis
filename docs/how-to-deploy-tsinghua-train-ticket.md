@@ -71,7 +71,18 @@ make push-image
 11. Deploy train-ticket system
 
 ```bash
-make deploy DeployArgs="--with-tracing --with-monitoring"
+# create namespace
+k create namespaces tt
+
+# deploy pv
+k apply -f deployment/kubernetes-manifests/k8s-with-jaeger/mongo_pv.yml -n tt
+# check with
+k get pvc -n tt
+
+# deploy 
+kubectl apply -n tt -f deployment/kubernetes-manifests/k8s-with-jaeger/ts-deployment-part1.yml
+
+
 ```
 
 9. Observe K8S dashboard, wait for a few minutes

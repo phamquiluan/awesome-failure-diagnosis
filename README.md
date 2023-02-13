@@ -49,9 +49,9 @@
 
 ## Train Ticket
 
-- [Train Ticket @ Fudan University](https://github.com/FudanSELab/train-ticket) (40+ microservices)
+- [Train Ticket @ Fudan University](https://github.com/FudanSELab/train-ticket) (40+ microservices) [How to deloy](docs/how-to-deploy-train-ticket.md)
 - [Train Ticket @ Tsinghua University](https://github.com/lizeyan/train-ticket)
-- [How to deloy Train Ticket system](docs/how-to-deploy-train-ticket.md)
+- [Train Ticket @ RMIT, refactored from Tsinghua version](https://github.com/phamquiluan/tsinghua-train-ticket) [How to deploy](docs/how-to-deploy-tsinghua-train-ticket.md)
 
 ## Online Boutique
 

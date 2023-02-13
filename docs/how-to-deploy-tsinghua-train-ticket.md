@@ -4,7 +4,6 @@
 
 Follow [this tutorial](./how-to-prepare-a-minikube-cluster-on-ec2.md)
 
-
 ## 2. SSH to the instance
 
 ```bash
@@ -16,7 +15,6 @@ ssh that@instance_ip
 ```bash
 git clone https://github.com/phamquiluan/tsinghua-train-ticket.git && cd tsinghua-train-ticket
 ```
-
 
 ## 3. Prepare a local Docker registry
 

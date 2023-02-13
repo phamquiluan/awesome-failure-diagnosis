@@ -37,21 +37,40 @@ make push-image
 ```bash
 # create namespace
 k create namespace tt
+```
 
+Forward remote port 39563 to local machine and open the dashboard here: http://127.0.0.1:39563/api/v1/namespaces/kubernetes-dashboard/services/http:kubernetes-dashboard:/proxy/#/workloads?namespace=tt
+
+```bash
 # deploy Persistent Volumes (PV)
 k apply -f deployment/kubernetes-manifests/k8s-with-jaeger/mongo_pv.yml -n tt
 # check PV with
 k get pvc -n tt
 
-# deploy
+# deploy part 1
 k apply -n tt -f deployment/kubernetes-manifests/k8s-with-jaeger/ts-deployment-part1.yml
-
-# TODO: update this one
-k apply -n tt -f deployment/kubernetes-manifests/k8s-with-jaeger/ts-deployment-part2.yml
-k apply -n tt -f deployment/kubernetes-manifests/k8s-with-jaeger/ts-deployment-part3.yml
-
-
 ```
 
-9. Observe K8S dashboard, wait for a few minutes
-   <img src="https://user-images.githubusercontent.com/24642166/212910066-91919b79-77e4-4b55-b0bd-42e148adae2a.png" width=700>
+<img src="https://user-images.githubusercontent.com/24642166/218472867-7269227d-aed6-4fcd-b7d1-f6125ef8da37.png" width=700>
+
+```bash
+# deploy part 2
+k apply -n tt -f deployment/kubernetes-manifests/k8s-with-jaeger/ts-deployment-part2.yml
+```
+
+<img src="https://user-images.githubusercontent.com/24642166/218474004-ac22d615-a6e5-4558-b816-a02124a95578.png" width=700>
+
+```bash
+# deploy part 3, ts-ui-dashboard
+k apply -n tt -f deployment/kubernetes-manifests/k8s-with-jaeger/ts-deployment-part3.yml
+
+# expose the service
+minikube service ts-ui-dashboard -n tt --url
+
+# (ins)(env) ubuntu@ip-172-31-27-139:~/tsinghua-train-ticket$ minikube service ts-ui-dashboard -n tt --url 
+# http://192.168.49.2:32677
+```
+
+9. Forward and open the url
+
+<img src="https://user-images.githubusercontent.com/24642166/218474593-0eb08cab-29ee-4714-a2a9-9e56f1e9837b.png" width=700>

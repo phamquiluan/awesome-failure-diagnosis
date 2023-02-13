@@ -30,13 +30,7 @@ watch -n 1 "aws ec2 describe-instances --region ap-southeast-2 | jq .Reservation
 ssh that@instance_ip
 ```
 
-## 6. Clone
-
-```bash
-git clone https://github.com/FudanSELab/train-ticket.git && cd train-ticket
-```
-
-## 7. Start a K8s cluster
+## 6. Start a K8s cluster
 
 ```bash
 # restart_minikube.sh

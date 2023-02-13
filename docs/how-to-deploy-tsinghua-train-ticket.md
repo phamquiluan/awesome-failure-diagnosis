@@ -67,7 +67,7 @@ k apply -n tt -f deployment/kubernetes-manifests/k8s-with-jaeger/ts-deployment-p
 # expose the service
 minikube service ts-ui-dashboard -n tt --url
 
-# (ins)(env) ubuntu@ip-172-31-27-139:~/tsinghua-train-ticket$ minikube service ts-ui-dashboard -n tt --url 
+# (ins)(env) ubuntu@ip-172-31-27-139:~/tsinghua-train-ticket$ minikube service ts-ui-dashboard -n tt --url
 # http://192.168.49.2:32677
 ```
 

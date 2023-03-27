@@ -45,6 +45,7 @@
 - [Github Incidents](https://www.githubstatus.com/history)
 - [Atlassian](https://status.atlassian.com/)
 - [CircleCI](https://status.circleci.com/)
+- [Notion](https://status.notion.so/)
 
 # Sample microservices systems
 

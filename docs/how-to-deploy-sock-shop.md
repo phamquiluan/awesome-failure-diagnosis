@@ -57,7 +57,7 @@ minikube start --cpus=max --memory=max
 minikube addons enable metrics-server
 
 # start dashboard
-minikube dashboard
+minikube dashboard --port 8888 --url
 
 # verify your cluster
 kubectl get nodes

@@ -99,7 +99,7 @@ kubectl apply -f deploy/kubernetes/manifests/00-sock-shop-ns.yaml -f deploy/kube
 ## Create a tunnel for frontend service access the website
 
 ```bash
-minikube service front-end -n sock-shop --url 
+minikube service front-end -n sock-shop --url
 ```
 
 <img src="https://user-images.githubusercontent.com/24642166/213437386-ceafaaed-bfab-4d1d-9426-b90a2f21442a.png" width=700/>

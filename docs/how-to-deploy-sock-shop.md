@@ -80,7 +80,7 @@ kubectl create -f deploy/kubernetes/manifests-logging
 
 ```bash
 # create a tunnel
-minikube service kibana -n kube-system
+minikube service kibana -n kube-system --url
 ```
 
 <img src="https://user-images.githubusercontent.com/24642166/213435121-5659badc-2de2-433c-8075-103f22a720ff.png" width=700>

@@ -1,4 +1,4 @@
-# How to deploy Tsinghua Train Ticket
+# How to deploy RMIT Train Ticket
 
 ## 1. Prepare Minikube Cluster
 

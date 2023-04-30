@@ -63,7 +63,7 @@ git clone https://github.com/GoogleCloudPlatform/microservices-demo && cd micros
  minikube addons enable metrics-server
 
  # start dashboard
- minikube dashboard
+ minikube dashboard --port 30001 --url
 ```
 
 ```bash

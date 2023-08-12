@@ -195,6 +195,7 @@
 
 # Reading List
 
+- [Datadog Incident Management](https://www.datadoghq.com/blog/tag/incident-management/)
 - [Introducing Bits AI, your new DevOps copilot](https://www.datadoghq.com/blog/datadog-bits-generative-ai/)
 - [AWS Observability Recipes](https://aws-observability.github.io/aws-o11y-recipes/)
 - [Monitoring the Golden Signals (Latency, Traffic, Errors, and Saturation)](https://www.slideshare.net/OpsStack/how-to-monitoring-the-sre-golden-signals-ebook)

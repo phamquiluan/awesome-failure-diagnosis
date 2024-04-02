@@ -49,34 +49,14 @@
 
 # Sample microservices systems
 
-## Train Ticket
-
 - [Train Ticket @ Fudan University](https://github.com/FudanSELab/train-ticket) (40+ microservices) [How to deloy](docs/how-to-deploy-train-ticket.md)
-- [Train Ticket @ Tsinghua University](https://github.com/lizeyan/train-ticket)
 - [Train Ticket @ RMIT](https://github.com/phamquiluan/rmit-train-ticket) [How to deploy](docs/how-to-deploy-rmit-train-ticket.md)
-
-## Online Boutique
-
-- [Online Boutique @ Google Cloud](https://github.com/GoogleCloudPlatform/microservices-demo) (10 microservices)
-- [How to deloy Online Boutique system](docs/how-to-deploy-online-boutique.md)
-
-## Sock Shop
-
+- [Online Boutique @ Google Cloud](https://github.com/GoogleCloudPlatform/microservices-demo)
 - [Sock Shop @ RMIT](https://github.com/phamquiluan/sock-shop)
 - [Sock Shop @ Weaveworks](https://github.com/microservices-demo/microservices-demo)
-- [How to deloy Sock Shop system](docs/how-to-deploy-sock-shop.md)
-
-## Robot Shop
-
 - [Robot Shop @ Instana](https://github.com/instana/robot-shop)
 - https://www.instana.com/blog/stans-robot-shop-sample-microservice-application/
-
-## Bookinfo Application
-
 - https://istio.io/latest/docs/examples/bookinfo/
-
-## EzTravel
-
 - https://wilsonmar.github.io/easytravel/
 
 # Dataset
@@ -187,6 +167,7 @@
 ## Researcher
 
 - [Prof. Hongyu Zhang - Chongqing University](https://sites.google.com/site/hongyujohn/) [[Google Scholar]](https://scholar.google.com/citations?user=zsUN6PkAAAAJ&hl=en&oi=ao)
+- [Prof. Michael R. Lyu - The Chinese University of Hong Kong](https://www.cse.cuhk.edu.hk/lyu/) [[Google Scholar]](https://scholar.google.com/citations?user=uQnBgK0AAAAJ&hl=en)
 - [Assoc Prof. Dan Pei - Tsinghua University](https://netman.aiops.org/~peidan/) [[Google Scholar]](https://scholar.google.com/citations?user=i_zA1VsAAAAJ&hl=en&oi=ao)
 - [Prof. Tao Xie - Fudan University](https://taoxiease.github.io/) [[Google Scholar]](https://scholar.google.com/citations?user=DhhH9J4AAAAJ&hl=en&oi=ao)
 - [Prof. Peng Xin - Fudan University](https://cspengxin.github.io/) [[Google Scholar]](https://scholar.google.com/citations?user=wATYGXEAAAAJ&hl=en&oi=ao)

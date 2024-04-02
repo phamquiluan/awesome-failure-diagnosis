@@ -167,6 +167,8 @@
 - [Prof. Peng Xin - Fudan University](https://cspengxin.github.io/) [[Google Scholar]](https://scholar.google.com/citations?user=wATYGXEAAAAJ&hl=en&oi=ao)
 - [Dr. Dongmei Zhang - Microsoft Asia Research](https://www.microsoft.com/en-us/research/people/dongmeiz/) [[Google Scholar]](https://scholar.google.com/citations?user=jLlBBl4AAAAJ&hl=en&oi=ao)
 - [Qingwei Lin - Microsoft Research Asia](https://www.microsoft.com/en-us/research/people/qlin/publications/) [[Google Scholar]](https://scholar.google.com/citations?user=W9fdsxMAAAAJ&hl=en&oi=ao)
+- [Assoc. Prof. Pengfei Chen - Sun Yat-sen University](https://scholar.google.com/citations?user=g9tdjgQAAAAJ&hl=en) [[Google Scholar]](https://scholar.google.com/citations?user=g9tdjgQAAAAJ&hl=en)
+- [Guangba Yu - Sun Yat-sen University](https://yuxiaoba.github.io/) [[Google Scholar]](https://scholar.google.com/citations?user=wXY0D6YAAAAJ&hl=en&oi=ao)
 
 # Reading List
 

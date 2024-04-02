@@ -7,12 +7,6 @@
 
 - [Big tech cloud incident status](#big-tech-cloud-incident-status)
 - [Sample microservices systems](#sample-microservices-systems)
-  - [Train Ticket](#train-ticket)
-  - [Online Boutique](#online-boutique)
-  - [Sock Shop](#sock-shop)
-  - [Robot Shop](#robot-shop)
-  - [Bookinfo Application](#bookinfo-application)
-  - [EzTravel](#eztravel)
 - [Dataset](#dataset)
 - [Tools](#tools)
   - [Metrics](#metrics)

@@ -5,6 +5,11 @@
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
+- [Reading](#reading)
+  - [Anomaly Detection](#anomaly-detection)
+  - [Root cause analysis / Fault Localization](#root-cause-analysis--fault-localization)
+  - [Others Paper](#others-paper)
+  - [Misc](#misc)
 - [Big tech cloud incident status](#big-tech-cloud-incident-status)
 - [Sample microservices systems](#sample-microservices-systems)
 - [Dataset](#dataset)
@@ -16,11 +21,7 @@
   - [Chaos Engineering / Fault Injection](#chaos-engineering--fault-injection)
 - [Academia](#academia)
   - [Conferences and Journals](#conferences-and-journals)
-  - [Anomaly Detection](#anomaly-detection)
-  - [Root cause analysis / Fault Localization](#root-cause-analysis--fault-localization)
-  - [Others Paper](#others-paper)
   - [Researcher](#researcher)
-- [Reading List](#reading-list)
 - [Video](#video)
 - [Others](#others)
 

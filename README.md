@@ -27,7 +27,8 @@
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-# Reading 
+# Reading
+
 ## Anomaly Detection
 
 - [ICSE'21 - Log-based Anomaly Detection with Deep Learning: How Far Are We?](https://dl.acm.org/doi/10.1145/3510003.3510155) [[Code]](https://github.com/LogIntelligence/LogADEmpirical)
@@ -81,7 +82,6 @@
 - [Inside Azure Search: Chaos Engineering](https://azure.microsoft.com/en-us/blog/inside-azure-search-chaos-engineering/): Chaos engineering is the practice of intentionally introducing controlled failures and disruptions into a system to test its resilience and identify potential vulnerabilities.
 - https://learn.microsoft.com/en-us/azure/azure-monitor/
 - https://cloud.google.com/monitoring/docs/apis
-
 
 # Big tech cloud incident status
 
@@ -176,7 +176,6 @@
 
 [[Check Conference Rank](http://portal.core.edu.au/conf-ranks/)][[Check Journal Rank](https://www.scimagojr.com/journalrank.php)][[Check Paper Acceptance Status](https://dblp.org/)]
 
-
 ## Researcher
 
 - [Prof. Hongyu Zhang - Chongqing University](https://sites.google.com/site/hongyujohn/) [[Google Scholar]](https://scholar.google.com/citations?user=zsUN6PkAAAAJ&hl=en&oi=ao)
@@ -188,8 +187,6 @@
 - [Qingwei Lin - Microsoft Research Asia](https://www.microsoft.com/en-us/research/people/qlin/publications/) [[Google Scholar]](https://scholar.google.com/citations?user=W9fdsxMAAAAJ&hl=en&oi=ao)
 - [Assoc. Prof. Pengfei Chen - Sun Yat-sen University](https://scholar.google.com/citations?user=g9tdjgQAAAAJ&hl=en) [[Google Scholar]](https://scholar.google.com/citations?user=g9tdjgQAAAAJ&hl=en)
 - [Guangba Yu - Sun Yat-sen University](https://yuxiaoba.github.io/) [[Google Scholar]](https://scholar.google.com/citations?user=wXY0D6YAAAAJ&hl=en&oi=ao)
-
-
 
 # Video
 

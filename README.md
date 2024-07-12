@@ -31,6 +31,7 @@
 
 ## Anomaly Detection
 
+- [UAC-AD: Unsupervised Adversarial Contrastive Learning for Anomaly Detection on Multi-modal Data in Microservice Systems](https://ieeexplore.ieee.org/abstract/document/10552111) [[Code]](https://github.com/lhysgithub/UAC-AD)
 - [ICSE'23 - Eadro: An End-to-End Troubleshooting Framework for Microservices on Multi-source Data](https://arxiv.org/abs/2302.05092) [[Code]](https://github.com/BEbillionaireUSD/Eadro)
 - [ICSE'21 - Log-based Anomaly Detection with Deep Learning: How Far Are We?](https://dl.acm.org/doi/10.1145/3510003.3510155) [[Code]](https://github.com/LogIntelligence/LogADEmpirical)
 - [IPCCC'18 - Rapid deployment of anomaly detection models for large number of emerging kpi streams](https://ieeexplore.ieee.org/document/8711315)

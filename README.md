@@ -41,6 +41,7 @@
 ## Root cause analysis / Fault Localization
 
 - [FSE'24 - BARO: Robust Root Cause Analysis for Microservices via Multivariate Bayesian Online Change Point Detection](https://2024.esec-fse.org/details/fse-2024-research-papers/81/BARO-Robust-Root-Cause-Analysis-for-Microservices-via-Multivariate-Bayesian-Online-C) [[Code]](https://github.com/phamquiluan/baro/)
+- [SIGCOMM'23 - Network-centric distributed tracing with deepflow: Troubleshooting your microservices in zero code](https://dl.acm.org/doi/abs/10.1145/3603269.3604823) [[Code]](https://github.com/deepflowio/deepflow)
 - [FSE'23 - Nezha: Interpretable Fine-Grained Root Causes Analysis for Microservices on Multi-modal Observability Data](https://dl.acm.org/doi/abs/10.1145/3611643.3616249) [[Code]](https://github.com/IntelligentDDS/Nezha)
 - [ICSE'23 - Eadro: An End-to-End Troubleshooting Framework for Microservices on Multi-source Data](https://arxiv.org/abs/2302.05092) [[Code]](https://github.com/BEbillionaireUSD/Eadro)
 - [NeuIPS'22 - Root Cause Discovery: Root Cause Analysis of Failures in Microservices through Causal Discovery](https://openreview.net/forum?id=weoLjoYFvXY) [[Code]](https://github.com/azamikram/rcd)

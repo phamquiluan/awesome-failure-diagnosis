@@ -206,6 +206,7 @@ TODO: focus on finding primary source
 
 # Others
 
+- https://github.com/chenryn/aiops-handbook
 - https://github.com/donnemartin/system-design-primer
 - https://github.com/upgundecha/howtheysre
 - https://github.com/dastergon/awesome-sre

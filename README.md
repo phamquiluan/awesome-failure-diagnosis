@@ -59,6 +59,8 @@
 
 ## Others Paper
 
+- [2024 - A Comprehensive Survey on Root Cause Analysis in (Micro) Services: Methodologies, Challenges, and Trends](https://www.arxiv.org/abs/2408.00803)
+- [2024 - Failure Diagnosis in Microservice Systems: A Comprehensive Survey and Analysis](https://arxiv.org/pdf/2407.01710)
 - [2022 - Constructing Large-Scale Real-World Benchmark Datasets for AIOps](https://arxiv.org/abs/2208.03938)
 - [ASE'22 - Graph based Incident Extraction and Diagnosis in Large-Scale Online Systems](https://dl.acm.org/doi/abs/10.1109/ASE51524.2021.9678746)
 - [ISSRE'22 - Going through the Life Cycle of Faults in Clouds: Guidelines on Fault Handling](https://ieeexplore.ieee.org/document/9978764/) [[Code, Data]](https://github.com/IntelligentDDS/Post-mortems-Analysis)

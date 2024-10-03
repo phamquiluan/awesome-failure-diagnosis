@@ -47,6 +47,7 @@
 - [TSE'24 - TrinityRCL: Multi-Granular and Code-Level Root Cause Localization Using Multiple Types of Telemetry Data in Microservice Systems](https://ieeexplore.ieee.org/document/10034937)
 - [HeMiRCA: Fine-Grained Root Cause Analysis for Microservices with Heterogeneous Data Sources](https://dl.acm.org/doi/pdf/10.1145/3674726) [[Code]](https://github.com/Zhuzrx/HeMiRCA/)
 - [ASE'24 - Giving Every Modality a Voice in Microservice Failure Diagnosis via Multimodal Adaptive Optimization](https://conf.researchr.org/details/ase-2024/ase-2024-research/89/Giving-Every-Modality-a-Voice-in-Microservice-Failure-Diagnosis-via-Multimodal-Adapti)
+- [ASE'24 - MRCA: Metric-level Root Cause Analysis for Microservices via Multi-Modal Data](https://conf.researchr.org/details/ase-2024/ase-2024-research/85/MRCA-Metric-level-Root-Cause-Analysis-for-Microservices-via-Multi-Modal-Data)
 - [SIGCOMM'23 - Network-centric distributed tracing with deepflow: Troubleshooting your microservices in zero code](https://dl.acm.org/doi/abs/10.1145/3603269.3604823) [[Code]](https://github.com/deepflowio/deepflow)
 - [FSE'23 - Nezha: Interpretable Fine-Grained Root Causes Analysis for Microservices on Multi-modal Observability Data](https://dl.acm.org/doi/abs/10.1145/3611643.3616249) [[Code]](https://github.com/IntelligentDDS/Nezha)
 - [ICSE'23 - Eadro: An End-to-End Troubleshooting Framework for Microservices on Multi-source Data](https://arxiv.org/abs/2302.05092) [[Code]](https://github.com/BEbillionaireUSD/Eadro)

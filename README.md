@@ -207,8 +207,6 @@
 
 # Video
 
-TODO: focus on finding primary source
-
 - [Causal Inference Course Lectures - Brady Neal](https://www.youtube.com/playlist?list=PLoazKTcS0Rzb6bb9L508cyJ1z-U9iWkA0)
 - [Adobe - The Good, the Bad and the Ugly: The 3 Learnings of an SRE](https://www.usenix.org/conference/srecon20americas/presentation/charagondla)
 - [The Smallest Possible SRE Team](https://www.usenix.org/conference/srecon20americas/presentation/thomas)
@@ -227,3 +225,4 @@ TODO: focus on finding primary source
 - https://github.com/dastergon/awesome-chaos-engineering
 - https://github.com/awesome-foss/awesome-sysadmin
 - https://github.com/rguo12/awesome-causality-algorithms
+- https://www.amazon.science/blog/a-gentle-introduction-to-automated-reasoning

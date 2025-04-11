@@ -39,7 +39,9 @@
 - [IMC'15 - Opprentice: Towards practical and automatic anomaly detection through machine learning.](https://ieeexplore.ieee.org/document/8711315)
 - [ATC'21 - {Jump-Starting} Multivariate Time Series Anomaly Detection for Online Service Systems](https://www.usenix.org/conference/atc21/presentation/ma)
 - [WWW'18 - Unsupervised Anomaly Detection via Variational Auto-Encoder for Seasonal KPIs in Web Applications.](https://dl.acm.org/doi/10.1145/3178876.3185996)
+- [TKDE'04 - Workflow Mining: Discovering Process Models from Event Logs](https://ieeexplore.ieee.org/document/1316839/)
 
+ 
 ## Root cause analysis / Fault Localization
 
 - [WWW'25 - RCAEval: A Benchmark for Root Cause Analysis of Microservice Systems with Telemetry Data](https://arxiv.org/abs/2412.17015) [[Code]](https://github.com/phamquiluan/rcaeval/)

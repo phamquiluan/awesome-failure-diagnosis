@@ -39,6 +39,7 @@
 - [IMC'15 - Opprentice: Towards practical and automatic anomaly detection through machine learning.](https://ieeexplore.ieee.org/document/8711315)
 - [ATC'21 - {Jump-Starting} Multivariate Time Series Anomaly Detection for Online Service Systems](https://www.usenix.org/conference/atc21/presentation/ma)
 - [WWW'18 - Unsupervised Anomaly Detection via Variational Auto-Encoder for Seasonal KPIs in Web Applications.](https://dl.acm.org/doi/10.1145/3178876.3185996)
+- [CCS'17 - DeepLog: Anomaly Detection and Diagnosis from System Logs through Deep Learning](https://dl.acm.org/doi/10.1145/3133956.3134015)
 - [ICSE'16 - Behavioral Log Analysis with Statistical Guarantees](https://ieeexplore.ieee.org/document/7886964/)
 - [TKDE'04 - Workflow Mining: Discovering Process Models from Event Logs](https://ieeexplore.ieee.org/document/1316839/)
 

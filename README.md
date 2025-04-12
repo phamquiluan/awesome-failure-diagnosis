@@ -1,4 +1,4 @@
-# Intelligent Failure Diagnosis for Microservice Systems
+# Intelligent Failure Diagnosis for Software Systems
 
 [![Linter](https://github.com/phamquiluan/awesome-incident-management/actions/workflows/linter.yml/badge.svg)](https://github.com/phamquiluan/awesome-incident-management/actions/workflows/linter.yml)
 

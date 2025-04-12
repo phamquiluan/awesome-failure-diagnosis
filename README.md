@@ -197,6 +197,7 @@
 ## Researcher
 
 - [Prof. Hongyu Zhang - Chongqing University](https://sites.google.com/site/hongyujohn/) [[Google Scholar]](https://scholar.google.com/citations?user=zsUN6PkAAAAJ&hl=en&oi=ao)
+- [Prof. Odej Kao - TU Berlin](https://scholar.google.com/citations?hl=en&user=mvOSfFAAAAAJ) [[Google Scholar]](https://scholar.google.com/citations?hl=en&user=mvOSfFAAAAAJ)
 - [Prof. Michael R. Lyu - The Chinese University of Hong Kong](https://www.cse.cuhk.edu.hk/lyu/) [[Google Scholar]](https://scholar.google.com/citations?user=uQnBgK0AAAAJ&hl=en)
 - [Assoc Prof. Dan Pei - Tsinghua University](https://netman.aiops.org/~peidan/) [[Google Scholar]](https://scholar.google.com/citations?user=i_zA1VsAAAAJ&hl=en&oi=ao)
 - [Prof. Tao Xie - Fudan University](https://taoxiease.github.io/) [[Google Scholar]](https://scholar.google.com/citations?user=DhhH9J4AAAAJ&hl=en&oi=ao)

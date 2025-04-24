@@ -67,6 +67,9 @@
 
 ## Others Paper
 
+- [WWW'25 - RCAEval: A Benchmark for Root Cause Analysis of Microservice Systems with Telemetry Data](https://arxiv.org/abs/2412.17015) [[Code]](https://github.com/phamquiluan/rcaeval/)
+- [SANER'25 - AIOpsArena: Scenario-Oriented Evaluation and Leaderboard for AIOps Algorithms in Microservices](https://nkcs.iops.ai/wp-content/uploads/2025/01/AIOpsArena.pdf)
+- [2025 - AIOpsLab: A Holistic Framework to Evaluate AI Agents for Enabling Autonomous Clouds](#)
 - [2024 - A Comprehensive Survey on Root Cause Analysis in (Micro) Services: Methodologies, Challenges, and Trends](https://www.arxiv.org/abs/2408.00803)
 - [2024 - Failure Diagnosis in Microservice Systems: A Comprehensive Survey and Analysis](https://arxiv.org/pdf/2407.01710)
 - [2022 - Constructing Large-Scale Real-World Benchmark Datasets for AIOps](https://arxiv.org/abs/2208.03938)

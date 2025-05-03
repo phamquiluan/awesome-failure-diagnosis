@@ -108,6 +108,7 @@
 
 # Big tech cloud incident status
 
+- [OpenAI - https://status.openai.com/history](https://status.openai.com/history)
 - [Azure Cloud - https://status.azure.com/en-us/status/history](https://status.azure.com/en-us/status/history)
 - [IBM Cloud - https://cloud.ibm.com/status/incident-reports](https://cloud.ibm.com/status/incident-reports)
 - [Google Cloud - https://status.cloud.google.com/summary](https://status.cloud.google.com/summary)

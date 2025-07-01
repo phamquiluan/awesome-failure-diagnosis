@@ -107,7 +107,6 @@
 - https://cloud.google.com/monitoring/docs/apis
 - https://github.com/mooselab/DevOpsDataCollection
 
-  
 # Big tech cloud incident status
 
 - [OpenAI - https://status.openai.com/history](https://status.openai.com/history)

@@ -45,6 +45,7 @@
 
 ## Root Cause Analysis / Fault Localization
 
+- [Graph-Free Root Cause Analysis](https://arxiv.org/abs/2601.21359v1)
 - [WWW'25 - RCAEval: A Benchmark for Root Cause Analysis of Microservice Systems with Telemetry Data](https://arxiv.org/abs/2412.17015) [[Code]](https://github.com/phamquiluan/rcaeval/)
 - [ICLR'25 - Robust Root Cause Diagnosis using In-Distribution Interventions](https://openreview.net/pdf?id=l11DZY5Nxu)
 - [ICLR'25 - OpenRCA: Can Large Language Models Locate the Root Cause of Software Failures?](https://github.com/microsoft/OpenRCA)
@@ -70,6 +71,7 @@
 
 ## Others Paper
 
+- [Graph-Free Root Cause Analysis](https://arxiv.org/abs/2601.21359v1)
 - [WWW'25 - RCAEval: A Benchmark for Root Cause Analysis of Microservice Systems with Telemetry Data](https://arxiv.org/abs/2412.17015) [[Code]](https://github.com/phamquiluan/rcaeval/)
 - [SANER'25 - AIOpsArena: Scenario-Oriented Evaluation and Leaderboard for AIOps Algorithms in Microservices](https://nkcs.iops.ai/wp-content/uploads/2025/01/AIOpsArena.pdf)
 - [2025 - AIOpsLab: A Holistic Framework to Evaluate AI Agents for Enabling Autonomous Clouds](#)

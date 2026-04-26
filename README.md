@@ -31,6 +31,7 @@
 
 ## Anomaly Detection
 
+- [FSE'26 - EventADL: Open-Box Anomaly Detection and Localization Framework for Events in Cloud-Based Service Systems](https://conf.researchr.org/details/fse-2026/fse-2026-research-papers/153/EventADL-Open-Box-Anomaly-Detection-and-Localization-Framework-for-Events-in-Cloud-B)
 - [UAC-AD: Unsupervised Adversarial Contrastive Learning for Anomaly Detection on Multi-modal Data in Microservice Systems](https://ieeexplore.ieee.org/abstract/document/10552111) [[Code]](https://github.com/lhysgithub/UAC-AD)
 - [Robust multimodal failure detection for microservice systems](https://dl.acm.org/doi/pdf/10.1145/3580305.3599902) [[Code]](https://github.com/AIOps-Lab-NKU/AnoFusion)
 - [ICSE'23 - Eadro: An End-to-End Troubleshooting Framework for Microservices on Multi-source Data](https://arxiv.org/abs/2302.05092) [[Code]](https://github.com/BEbillionaireUSD/Eadro)
@@ -45,6 +46,8 @@
 
 ## Root Cause Analysis / Fault Localization
 
+- [FSE'26 - TORAI: Multi-Source Root Cause Analysis for \textit{Blind Spots} in Microservice Service Call Graph](https://arxiv.org/abs/2604.13522)
+- [FSE'26 - EventADL: Open-Box Anomaly Detection and Localization Framework for Events in Cloud-Based Service Systems](https://conf.researchr.org/details/fse-2026/fse-2026-research-papers/153/EventADL-Open-Box-Anomaly-Detection-and-Localization-Framework-for-Events-in-Cloud-B)
 - [Graph-Free Root Cause Analysis](https://arxiv.org/abs/2601.21359v1)
 - [WWW'25 - RCAEval: A Benchmark for Root Cause Analysis of Microservice Systems with Telemetry Data](https://arxiv.org/abs/2412.17015) [[Code]](https://github.com/phamquiluan/rcaeval/)
 - [ICLR'25 - Robust Root Cause Diagnosis using In-Distribution Interventions](https://openreview.net/pdf?id=l11DZY5Nxu)
